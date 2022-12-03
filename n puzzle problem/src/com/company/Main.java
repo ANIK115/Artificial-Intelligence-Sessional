@@ -11,6 +11,9 @@ public class Main {
         };
 
         Puzzle puzzle = new Puzzle(board.length);
-        System.out.println("Solvable : "+puzzle.isSolvable(board));
+        puzzle.currentHeuristic = "Hamming";
+        puzzle.setInitialNode(board);
+        puzzle.initialNode.calculateManhattanDistance(puzzle.finalMap);
+        puzzle.solvePuzzle(board);
     }
 }

@@ -5,12 +5,12 @@ import java.util.HashMap;
 
 class Tile
 {
-    int x;
-    int y;
+    int i;
+    int j;
 
-    public Tile(int x, int y) {
-        this.x = x;
-        this.y = y;
+    public Tile(int i, int j) {
+        this.i = i;
+        this.j = j;
     }
 }
 
@@ -77,10 +77,27 @@ public class Node {
         {
             for(int j=0; j<board.length; j++)
             {
-                int t = board[i][j];
-                Tile tile = finalMap.get(t);
-                h += Math.abs(i-tile.x) + Math.abs(j-tile.y);
+                if(board[i][j] != 0)
+                {
+                    int t = board[i][j];
+                    Tile tile = finalMap.get(t);
+                    h += Math.abs(i-tile.i) + Math.abs(j-tile.j);
+                }
+
             }
         }
+    }
+
+    public int[][] cloneBoard()
+    {
+        int[][]copied = new int[board.length][board.length];
+        for(int i=0; i<board.length; i++)
+        {
+            for (int j=0; j<board.length; j++)
+            {
+                copied[i][j] = board[i][j];
+            }
+        }
+        return copied;
     }
 }

@@ -115,23 +115,25 @@ public class Puzzle {
 
     public void generateNodes(Node node)
     {
-        int x = node.blankTile.x;
-        int y = node.blankTile.y;
+        int i = node.blankTile.i;
+        int j = node.blankTile.j;
         //there can be maximum 4 nodes generated
-        if(node.blankTile.x < node.board.length-1)  //we can move a tile left
+        if(node.blankTile.j < node.board.length-1)  //we can move a tile left
         {
-            int[][]leftBoard = node.board.clone();
-            leftBoard[x][y] = leftBoard[x+1][y];
+            int[][]leftBoard = node.cloneBoard();
+            leftBoard[i][j] = leftBoard[i][j+1];
+            leftBoard[i][j+1] = 0;
+
             Node leftNode = new Node(leftBoard, node.g+1);
             leftNode.move = "Left";
             if(!uniqueStates.contains(leftBoard))
             {
                 uniqueStates.add(leftBoard);
                 leftNode.parent = node;
-                leftNode.blankTile = new Tile(x+1, y);
+                leftNode.blankTile = new Tile(i, j+1);
                 if(currentHeuristic.equalsIgnoreCase("Hamming"))
                 {
-                    leftNode.calculateHammingDistance(leftBoard);
+                    leftNode.calculateHammingDistance(finalState);
                 }
                 if(currentHeuristic.equalsIgnoreCase("Manhattan"))
                 {
@@ -140,21 +142,25 @@ public class Puzzle {
                 leftNode.updateF();
                 priorityQueue.add(leftNode);
                 expanded++;
+//                leftNode.printState();
             }
-        }else if(node.blankTile.x > 0)  //Right Move
+        }
+        if(node.blankTile.j > 0)  //Right Move
         {
-            int[][]rightBoard = node.board.clone();
-            rightBoard[x][y] = rightBoard[x-1][y];
+            int[][]rightBoard = node.cloneBoard();
+            rightBoard[i][j] = rightBoard[i][j-1];
+            rightBoard[i][j-1] = 0;
+
             Node rightNode = new Node(rightBoard, node.g+1);
             rightNode.move = "Right";
             if(!uniqueStates.contains(rightBoard))
             {
                 uniqueStates.add(rightBoard);
                 rightNode.parent = node;
-                rightNode.blankTile = new Tile(x-1, y);
+                rightNode.blankTile = new Tile(i, j-1);
                 if(currentHeuristic.equalsIgnoreCase("Hamming"))
                 {
-                    rightNode.calculateHammingDistance(rightBoard);
+                    rightNode.calculateHammingDistance(finalState);
                 }
                 if(currentHeuristic.equalsIgnoreCase("Manhattan"))
                 {
@@ -163,21 +169,26 @@ public class Puzzle {
                 rightNode.updateF();
                 priorityQueue.add(rightNode);
                 expanded++;
+//                rightNode.printState();
+//                System.out.println("State printed");
             }
-        }else if(node.blankTile.y > 0)  //Up Move
+        }
+        if(node.blankTile.i < node.board.length-1)  //Up Move
         {
-            int[][]upBoard = node.board.clone();
-            upBoard[x][y] = upBoard[x][y-1];
+            int[][]upBoard = node.cloneBoard();
+            upBoard[i][j] = upBoard[i+1][j];
+            upBoard[i+1][j] = 0;
+
             Node upNode = new Node(upBoard, node.g+1);
             upNode.move = "Up";
             if(!uniqueStates.contains(upBoard))
             {
                 uniqueStates.add(upBoard);
                 upNode.parent = node;
-                upNode.blankTile = new Tile(x, y-1);
+                upNode.blankTile = new Tile(i+1, j);
                 if(currentHeuristic.equalsIgnoreCase("Hamming"))
                 {
-                    upNode.calculateHammingDistance(upBoard);
+                    upNode.calculateHammingDistance(finalState);
                 }
                 if(currentHeuristic.equalsIgnoreCase("Manhattan"))
                 {
@@ -186,21 +197,26 @@ public class Puzzle {
                 upNode.updateF();
                 priorityQueue.add(upNode);
                 expanded++;
+//                upNode.printState();
+//                System.out.println("State printed");
             }
-        }else if(node.blankTile.y < node.board.length-1)  //we can move a tile left
+        }
+        if(node.blankTile.i > 0)  //we can move a tile down
         {
-            int[][]downBoard = node.board.clone();
-            downBoard[x][y] =downBoard[x][y+1];
+            int[][]downBoard = node.cloneBoard();
+            downBoard[i][j] =downBoard[i-1][j];
+            downBoard[i-1][j] = 0;
+
             Node downNode = new Node(downBoard, node.g+1);
             downNode.move = "Down";
             if(!uniqueStates.contains(downBoard))
             {
                 uniqueStates.add(downBoard);
                 downNode.parent = node;
-                downNode.blankTile = new Tile(x, y+1);
+                downNode.blankTile = new Tile(i-1, j);
                 if(currentHeuristic.equalsIgnoreCase("Hamming"))
                 {
-                    downNode.calculateHammingDistance(downBoard);
+                    downNode.calculateHammingDistance(finalState);
                 }
                 if(currentHeuristic.equalsIgnoreCase("Manhattan"))
                 {
@@ -209,12 +225,15 @@ public class Puzzle {
                 downNode.updateF();
                 priorityQueue.add(downNode);
                 expanded++;
+//                downNode.printState();
+//                System.out.println("State printed");
             }
         }
     }
 
-    public boolean dijkstra()
+    public void dijkstra()
     {
+        int c =0;
         if(currentHeuristic.equalsIgnoreCase("Hamming"))
         {
             initialNode.calculateHammingDistance(finalState);
@@ -231,13 +250,17 @@ public class Puzzle {
         {
             Node currentNode = priorityQueue.poll();
             explored++;
+            System.out.println("Priniting current state---------------");
+            currentNode.printState();
+            System.out.println("Printed current state-----------------");
             if(isGoalReached(currentNode.board))
             {
-                return true;
+                goalNode = currentNode;
+                return ;
             }
             generateNodes(currentNode);
+            System.out.println("Nodes generated");
         }
-        return false;
     }
     
     public boolean isGoalReached(int[][]board)
@@ -267,13 +290,26 @@ public class Puzzle {
         System.out.println("---------------Solution----------------");
         while (!solution.isEmpty())
         {
-            System.out.println(solution.peek().move);
             solution.peek().printState();
             solution.pop();
         }
 
         System.out.println("Total expanded nodes: "+expanded);
         System.out.println("Total explored nodes: "+explored);
+    }
+
+    public void solvePuzzle(int[][] board)
+    {
+        setInitialNode(board);
+        this.initialNode.printState();
+        if(!isSolvable(board))
+        {
+            System.out.println("This cannot be solved!");
+            return;
+        }
+
+        dijkstra();
+        printSolution();
     }
 
 }
