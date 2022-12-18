@@ -8,7 +8,7 @@ public class Puzzle {
     int size;
     HashMap<Integer, Tile>finalMap;
     PriorityQueue<Node> priorityQueue;  //to use in dijkstra
-    HashSet<int[][]> uniqueStates;
+    List<int[][]> uniqueStates;
     String currentHeuristic;    //if it is manhattan distance or hamming distance
     int expanded = 0;
     int explored = 0;
@@ -17,7 +17,7 @@ public class Puzzle {
 
     public Puzzle(int size) {
         priorityQueue = new PriorityQueue<>(new NodeComparator());
-        uniqueStates = new HashSet<>();
+        uniqueStates = new ArrayList<>();
         finalMap = new HashMap<>();
         this.size = size;
         int k = size * size;
@@ -142,7 +142,6 @@ public class Puzzle {
                 leftNode.updateF();
                 priorityQueue.add(leftNode);
                 expanded++;
-//                leftNode.printState();
             }
         }
         if(node.blankTile.j > 0)  //Right Move
@@ -169,8 +168,6 @@ public class Puzzle {
                 rightNode.updateF();
                 priorityQueue.add(rightNode);
                 expanded++;
-//                rightNode.printState();
-//                System.out.println("State printed");
             }
         }
         if(node.blankTile.i < node.board.length-1)  //Up Move
@@ -197,8 +194,6 @@ public class Puzzle {
                 upNode.updateF();
                 priorityQueue.add(upNode);
                 expanded++;
-//                upNode.printState();
-//                System.out.println("State printed");
             }
         }
         if(node.blankTile.i > 0)  //we can move a tile down
@@ -225,13 +220,11 @@ public class Puzzle {
                 downNode.updateF();
                 priorityQueue.add(downNode);
                 expanded++;
-//                downNode.printState();
-//                System.out.println("State printed");
             }
         }
     }
 
-    public void dijkstra()
+    public void solve()
     {
         int c =0;
         if(currentHeuristic.equalsIgnoreCase("Hamming"))
@@ -246,20 +239,18 @@ public class Puzzle {
         }
         priorityQueue.add(initialNode);
         uniqueStates.add(initialNode.board);
+
         while(!priorityQueue.isEmpty())
         {
             Node currentNode = priorityQueue.poll();
             explored++;
-            System.out.println("Priniting current state---------------");
-            currentNode.printState();
-            System.out.println("Printed current state-----------------");
+
             if(isGoalReached(currentNode.board))
             {
                 goalNode = currentNode;
                 return ;
             }
             generateNodes(currentNode);
-            System.out.println("Nodes generated");
         }
     }
     
@@ -282,18 +273,21 @@ public class Puzzle {
     {
         Stack<Node> solution = new Stack<>();
         Node current = goalNode;
-        while(current != null)
+        while(current.parent != null)
         {
             solution.push(current);
             current = current.parent;
         }
         System.out.println("---------------Solution----------------");
+        int count = 0;
         while (!solution.isEmpty())
         {
             solution.peek().printState();
             solution.pop();
+            count++;
         }
 
+        System.out.println("Total moves: "+count);
         System.out.println("Total expanded nodes: "+expanded);
         System.out.println("Total explored nodes: "+explored);
     }
@@ -308,7 +302,8 @@ public class Puzzle {
             return;
         }
 
-        dijkstra();
+        System.out.println("Solvable");
+        solve();
         printSolution();
     }
 
