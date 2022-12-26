@@ -1,0 +1,29 @@
+Class Variable
+-> Domain: list of values
+
+HashMap: variable -> value
+
+Class Constraint
+Scope: a tuple of variables
+Condition: Boolean function to be applied to scope
+method holds(assignment) -> bool
+
+//Ekta variable a value assignment korar por kono constraint violate hoy kina
+//seta check korte hbe.
+
+Class CSP
+Variables
+Constraints
+
+
+Class Variable_Order_Heuristic
+method getNextVariable(csp, assignment) -> variable
+
+//ekhane specification a deya 5 ta heuristic apply korte hbe
+
+
+Class CSP_Solver
+Variable_Order_Heuristic
+CSP = null, assignment = null
+method solve(csp, assignment) -> solution
+method value_order_heuristic(variable) -> value
