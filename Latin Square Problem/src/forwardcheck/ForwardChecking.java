@@ -1,4 +1,4 @@
-package backtrack;
+package forwardcheck;
 
 import base.CSP;
 import base.Variable;
@@ -8,14 +8,14 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class BacktrackSolver {
+public class ForwardChecking {
     CSP csp;
     int[][] solution;
     int totalNodes;
     int backtracks;
 
-    public BacktrackSolver() {
-        totalNodes = 1;
+    public ForwardChecking() {
+        totalNodes = 0;
         backtracks = 0;
     }
 
@@ -39,6 +39,45 @@ public class BacktrackSolver {
         solution = grid;
     }
 
+    public void updateDomain(List<Variable>variableList, Variable var, int value, List<Variable> updatedVariables)
+    {
+        for(Variable v : variableList)
+        {
+            if(v.row == var.row || v.col == var.col)
+            {
+                if(v.domain.contains(value))
+                {
+                    v.domain.remove((Object)value);
+                    updatedVariables.add(v);
+                }
+            }
+        }
+    }
+
+    public void addValueToDomain(List<Variable> variableList,int value, List<Variable> updatedVariables)
+    {
+        for(Variable v : variableList)
+        {
+            if(updatedVariables.contains(v))
+            {
+                v.domain.add(value);
+            }
+        }
+    }
+
+    public boolean isAnyDomainEmpty(List<Variable> variableList)
+    {
+        for(Variable v : variableList)
+        {
+            if(v.domain.size()==0)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
+
     public boolean solveLatinSquare(CSP csp)
     {
         //base condition: if the unassigned variable list is empty, then we've reached to a solution
@@ -60,13 +99,17 @@ public class BacktrackSolver {
                 solution[var.row][var.col] = value;
                 csp.variableList.remove(var);
                 totalNodes++;
-                if(solveLatinSquare(csp))
+                List<Variable> updatedVariables = new ArrayList<>();
+                updateDomain(csp.variableList,var, value, updatedVariables);
+                if(!isAnyDomainEmpty(csp.variableList) && (solveLatinSquare(csp)))
                 {
                     return true;
-                }else
+                }
+                else
                 {
-                    csp.variableList.add(var);
                     solution[var.row][var.col] = 0;
+                    addValueToDomain(csp.variableList, value, updatedVariables);
+                    csp.variableList.add(var);
                 }
             }
         }
@@ -78,24 +121,26 @@ public class BacktrackSolver {
     public void solve()
     {
         long start = System.currentTimeMillis();
-        solveLatinSquare(this.csp);
+        Boolean isSolved = solveLatinSquare(this.csp);
         long end = System.currentTimeMillis();
         long elapsedTime = end - start;
 
-            System.out.println("Printing solution:\n");
-            for(int i=0; i<solution.length; i++)
+        if(!isSolved)
+        {
+            System.out.println("Cannot solve");
+            return;
+        }
+        System.out.println("Printing solution for Forward Checking and "+csp.varOrderHeuristic+": ");
+        for(int i=0; i<solution.length; i++)
+        {
+            for(int j=0; j<solution.length; j++)
             {
-                for(int j=0; j<solution.length; j++)
-                {
-                    System.out.print(solution[i][j]+"  ");
-                }
-                System.out.println();
+                System.out.print(solution[i][j]+"  ");
             }
-            System.out.println("Total Nodes: "+totalNodes);
-            System.out.println("Total Backtracks: "+backtracks);
-            System.out.println("Total time: "+elapsedTime+" ms");
-
-
+            System.out.println();
+        }
+        System.out.println("Total Nodes: "+totalNodes);
+        System.out.println("Total Backtracks: "+backtracks);
+        System.out.println("Total time: "+elapsedTime+" ms");
     }
-
 }

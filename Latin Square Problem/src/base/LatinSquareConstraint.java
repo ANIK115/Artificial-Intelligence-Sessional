@@ -14,15 +14,21 @@ public class LatinSquareConstraint implements Constraint{
     @Override
     public boolean isConstraintSatisfied(Variable variable, int value) {
         int n = currentGrid[0].length;
+
         for(int i=0; i<n; i++)
         {
-            for(int j=0; j<n; j++)
-            {
-                if(i == variable.row && j == variable.col)
-                    continue;
-                if(currentGrid[i][j] == value)
-                    return false;
-            }
+            if(i == variable.col)
+                continue;
+            if(currentGrid[variable.row][i] == value)
+                return false;
+        }
+
+        for(int i=0; i<n; i++)
+        {
+            if(i == variable.row)
+                continue;
+            if(currentGrid[i][variable.col] == value)
+                return false;
         }
         return true;
     }

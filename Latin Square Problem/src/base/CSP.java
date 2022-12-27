@@ -5,12 +5,10 @@ import java.util.HashMap;
 import java.util.List;
 
 public class CSP {
-    List<Variable> variableList;
-    LatinSquareConstraint constraint;
-    HashMap<Variable, Boolean> assignment;
-    String varOrderHeuristic;
-    CSP parent;
-
+    public List<Variable> variableList;
+    public LatinSquareConstraint constraint;
+    public HashMap<Variable, Boolean> assignment;
+    public String varOrderHeuristic;
 
     public CSP(List<Variable> variableList, String varOrderHeuristic, HashMap<Variable, Boolean> assignment) {
         this.variableList = variableList;
