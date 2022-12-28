@@ -80,6 +80,7 @@ public class ForwardChecking {
 
     public boolean solveLatinSquare(CSP csp)
     {
+        totalNodes++;
         //base condition: if the unassigned variable list is empty, then we've reached to a solution
         if(csp.variableList.size() == 0)
         {
@@ -98,7 +99,6 @@ public class ForwardChecking {
 //                System.out.println("Constraint satisfied");
                 solution[var.row][var.col] = value;
                 csp.variableList.remove(var);
-                totalNodes++;
                 List<Variable> updatedVariables = new ArrayList<>();
                 updateDomain(csp.variableList,var, value, updatedVariables);
                 if(!isAnyDomainEmpty(csp.variableList) && (solveLatinSquare(csp)))
@@ -128,6 +128,7 @@ public class ForwardChecking {
         if(!isSolved)
         {
             System.out.println("Cannot solve");
+            System.out.println("Time passed: "+elapsedTime+" ms");
             return;
         }
         System.out.println("Printing solution for Forward Checking and "+csp.varOrderHeuristic+": ");

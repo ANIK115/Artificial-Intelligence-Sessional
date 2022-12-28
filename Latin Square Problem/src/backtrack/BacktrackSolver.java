@@ -15,7 +15,7 @@ public class BacktrackSolver {
     int backtracks;
 
     public BacktrackSolver() {
-        totalNodes = 1;
+        totalNodes = 0;
         backtracks = 0;
     }
 
@@ -39,8 +39,36 @@ public class BacktrackSolver {
         solution = grid;
     }
 
+
+    public void updateDomain(List<Variable>variableList, Variable var, int value, List<Variable> updatedVariables)
+    {
+        for(Variable v : variableList)
+        {
+            if(v.row == var.row || v.col == var.col)
+            {
+                if(v.domain.contains(value))
+                {
+                    v.domain.remove((Object)value);
+                    updatedVariables.add(v);
+                }
+            }
+        }
+    }
+
+    public void addValueToDomain(List<Variable> variableList,int value, List<Variable> updatedVariables)
+    {
+        for(Variable v : variableList)
+        {
+            if(updatedVariables.contains(v))
+            {
+                v.domain.add(value);
+            }
+        }
+    }
+
     public boolean solveLatinSquare(CSP csp)
     {
+        totalNodes++;
         //base condition: if the unassigned variable list is empty, then we've reached to a solution
         if(csp.variableList.size() == 0)
         {
@@ -59,12 +87,15 @@ public class BacktrackSolver {
 //                System.out.println("Constraint satisfied");
                 solution[var.row][var.col] = value;
                 csp.variableList.remove(var);
-                totalNodes++;
+                List<Variable> updatedVariables = new ArrayList<>();
+                updateDomain(csp.variableList,var, value, updatedVariables);
+
                 if(solveLatinSquare(csp))
                 {
                     return true;
                 }else
                 {
+                    addValueToDomain(csp.variableList, value, updatedVariables);
                     csp.variableList.add(var);
                     solution[var.row][var.col] = 0;
                 }
@@ -82,7 +113,7 @@ public class BacktrackSolver {
         long end = System.currentTimeMillis();
         long elapsedTime = end - start;
 
-            System.out.println("Printing solution:\n");
+            System.out.println("Printing solution for Backtracking and "+csp.varOrderHeuristic+": ");
             for(int i=0; i<solution.length; i++)
             {
                 for(int j=0; j<solution.length; j++)

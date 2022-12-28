@@ -1,6 +1,7 @@
 package base;
 
 import java.util.List;
+import java.util.Random;
 
 public class VariableOrderHeuristic {
     public static Variable getNextVariable(List<Variable> variableList, String heuristic, int[][]grid)
@@ -14,11 +15,36 @@ public class VariableOrderHeuristic {
         }else if(heuristic.equalsIgnoreCase("VAH3"))
         {
             return heuristicVAH3(variableList, grid);
+        }else if(heuristic.equalsIgnoreCase("VAH4"))
+        {
+            return heuristicVAH4(variableList, grid);
         }
         else
         {
             return heuristicVAH5(variableList);
         }
+    }
+
+    private static Variable heuristicVAH4(List<Variable> variableList, int[][] grid) {
+//        double minRatio = Double.MAX_VALUE;
+        int minRatio = 1000000;
+        Variable minRatioVar = null;
+
+        for(Variable v : variableList)
+        {
+            int degree = countDegree(v, grid);
+            if(degree == 0)
+            {
+                degree = 1;
+            }
+            int ratio = v.domain.size()/degree;
+            if(ratio <= minRatio)
+            {
+                minRatio = ratio;
+                minRatioVar = v;
+            }
+        }
+        return minRatioVar;
     }
 
     private static Variable heuristicVAH3(List<Variable> variableList, int[][] grid) {
@@ -112,7 +138,10 @@ public class VariableOrderHeuristic {
     }
 
     private static Variable heuristicVAH5(List<Variable> variableList) {
-        return new Variable();
+
+        Random rand = new Random();
+        int random_integer = rand.nextInt(variableList.size());
+        return variableList.get(random_integer);
     }
 
 }
