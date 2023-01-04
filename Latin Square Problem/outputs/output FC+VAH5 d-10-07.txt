@@ -1,0 +1,14 @@
+Printing solution for Forward Checking and VAH5: 
+1  8  4  3  6  10  7  2  5  9  
+9  5  3  8  2  4  1  10  6  7  
+2  3  1  4  5  7  6  9  10  8  
+10  1  7  6  4  2  8  3  9  5  
+7  9  2  5  8  3  10  6  4  1  
+5  2  6  1  3  9  4  7  8  10  
+8  6  10  7  9  1  5  4  2  3  
+6  4  9  10  1  8  3  5  7  2  
+4  10  8  9  7  5  2  1  3  6  
+3  7  5  2  10  6  9  8  1  4  
+Total Nodes: 483171
+Total Backtracks: 483113
+Total time: 1140 ms

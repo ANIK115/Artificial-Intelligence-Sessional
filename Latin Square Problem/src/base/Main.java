@@ -5,16 +5,14 @@ import forwardcheck.ForwardChecking;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws FileNotFoundException {
-        //input to this problem will be a 2D grid with some of the values filled up
-        //0 denotes empty cell
-        //The 2D grid is n*n
-        File file = new File("d-10-06.txt");
-        Scanner scanner = new Scanner(file);
+    public static void Driver(Scanner scanner, String solverName, String heuristic, File output) throws IOException {
         int n = scanner.nextInt();
         int grid[][] = new int[n][n];
         for(int i=0; i<n; i++)
@@ -24,20 +22,42 @@ public class Main {
                 grid[i][j] = scanner.nextInt();
             }
         }
-        for(int i=0; i<n; i++)
+        if(solverName.equalsIgnoreCase("Backtrack"))
         {
-            for(int j=0; j<n; j++)
-            {
-                System.out.print(grid[i][j]+"  ");
-            }
-            System.out.println();
-        }
-        BacktrackSolver bsolver = new BacktrackSolver();
-        ForwardChecking fcsolver = new ForwardChecking();
-//        fcsolver.createCSP(n, grid, "VAH5");
-//        fcsolver.solve();
+            BacktrackSolver bsolver = new BacktrackSolver();
+            bsolver.createCSP(n, grid, heuristic);
+            bsolver.solve(output);
+        }else if(solverName.equalsIgnoreCase("Forward Check"))
+        {
 
-        bsolver.createCSP(n, grid, "VAH5");
-        bsolver.solve();
+            ForwardChecking fcsolver = new ForwardChecking();
+            fcsolver.createCSP(n, grid, heuristic);
+            fcsolver.solve(output);
+        }
+    }
+
+    public static void main(String[] args) throws IOException {
+        //input to this problem will be a 2D grid with some of the values filled up
+        //0 denotes empty cell
+        //The 2D grid is n*n
+        List<String> filenames = new ArrayList<>();
+//        filenames.add("d-10-01.txt");
+//        filenames.add("d-10-06.txt");
+//        filenames.add("d-10-07.txt");
+//        filenames.add("d-10-08.txt");
+        filenames.add("d-10-09.txt");
+        filenames.add("d-15-01.txt");
+
+        for (String fileName: filenames)
+        {
+            File file = new File(fileName);
+            Scanner scanner = new Scanner(file);
+            Driver(scanner, "Backtrack", "VAH2", new File("outputs/output BT+VAH2 "+fileName));
+        }
+
+
+
+
+
     }
 }

@@ -4,6 +4,9 @@ import base.CSP;
 import base.Variable;
 import base.VariableOrderHeuristic;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -76,8 +79,8 @@ public class BacktrackSolver {
         }
         Variable var = VariableOrderHeuristic.getNextVariable(csp.variableList, csp.varOrderHeuristic, solution);
 //        System.out.println("Variable got: "+var);
+//        System.out.println(csp.variableList.size());
         var.sortDomain(csp.variableList);
-
         for(int value : var.domain)
         {
 //            System.out.println("value: "+value+", for variable: "+var);
@@ -106,27 +109,35 @@ public class BacktrackSolver {
         return false;    //failure
     }
 
-    public void solve()
-    {
+    public void solve(File file) throws IOException {
         long start = System.currentTimeMillis();
-        solveLatinSquare(this.csp);
+        Boolean isSolved = solveLatinSquare(this.csp);
         long end = System.currentTimeMillis();
         long elapsedTime = end - start;
 
-            System.out.println("Printing solution for Backtracking and "+csp.varOrderHeuristic+": ");
-            for(int i=0; i<solution.length; i++)
+        FileWriter writer = new FileWriter(file);
+        if(!isSolved)
+        {
+            writer.write("Cannot solve\n");
+            writer.write("Time passed: "+elapsedTime+" ms\n");
+            writer.flush();
+            writer.close();
+            return;
+        }
+        writer.write("Printing solution for Backtracking and "+csp.varOrderHeuristic+": \n");
+        for(int i=0; i<solution.length; i++)
+        {
+            for(int j=0; j<solution.length; j++)
             {
-                for(int j=0; j<solution.length; j++)
-                {
-                    System.out.print(solution[i][j]+"  ");
-                }
-                System.out.println();
+                writer.write(solution[i][j]+"  ");
             }
-            System.out.println("Total Nodes: "+totalNodes);
-            System.out.println("Total Backtracks: "+backtracks);
-            System.out.println("Total time: "+elapsedTime+" ms");
-
-
+            writer.write("\n");
+        }
+        writer.write("Total Nodes: "+totalNodes+"\n");
+        writer.write("Total Backtracks: "+backtracks+"\n");
+        writer.write("Total time: "+elapsedTime+" ms"+"\n");
+        writer.flush();
+        writer.close();
     }
 
 }

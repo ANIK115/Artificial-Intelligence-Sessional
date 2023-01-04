@@ -4,6 +4,9 @@ import base.CSP;
 import base.Variable;
 import base.VariableOrderHeuristic;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -118,30 +121,34 @@ public class ForwardChecking {
         return false;    //failure
     }
 
-    public void solve()
-    {
+    public void solve(File file) throws IOException {
         long start = System.currentTimeMillis();
         Boolean isSolved = solveLatinSquare(this.csp);
         long end = System.currentTimeMillis();
         long elapsedTime = end - start;
 
+        FileWriter writer = new FileWriter(file);
         if(!isSolved)
         {
-            System.out.println("Cannot solve");
-            System.out.println("Time passed: "+elapsedTime+" ms");
+            writer.write("Cannot solve\n");
+            writer.write("Time passed: "+elapsedTime+" ms\n");
+            writer.flush();
+            writer.close();
             return;
         }
-        System.out.println("Printing solution for Forward Checking and "+csp.varOrderHeuristic+": ");
+        writer.write("Printing solution for Forward Checking and "+csp.varOrderHeuristic+": \n");
         for(int i=0; i<solution.length; i++)
         {
             for(int j=0; j<solution.length; j++)
             {
-                System.out.print(solution[i][j]+"  ");
+               writer.write(solution[i][j]+"  ");
             }
-            System.out.println();
+            writer.write("\n");
         }
-        System.out.println("Total Nodes: "+totalNodes);
-        System.out.println("Total Backtracks: "+backtracks);
-        System.out.println("Total time: "+elapsedTime+" ms");
+        writer.write("Total Nodes: "+totalNodes+"\n");
+        writer.write("Total Backtracks: "+backtracks+"\n");
+        writer.write("Total time: "+elapsedTime+" ms"+"\n");
+        writer.flush();
+        writer.close();
     }
 }
