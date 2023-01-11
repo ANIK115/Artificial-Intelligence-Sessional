@@ -41,18 +41,23 @@ public class Main {
         //0 denotes empty cell
         //The 2D grid is n*n
         List<String> filenames = new ArrayList<>();
-        filenames.add("d-10-01.txt");
-        filenames.add("d-10-06.txt");
+//        filenames.add("d-10-01.txt");
+//        filenames.add("d-10-06.txt");
 //        filenames.add("d-10-07.txt");
 //        filenames.add("d-10-08.txt");
-//        filenames.add("d-10-09.txt");
-//        filenames.add("d-15-01.txt");
+        filenames.add("d-10-09.txt");
+        filenames.add("d-15-01.txt");
 
         for (String fileName: filenames)
         {
             File file = new File(fileName);
             Scanner scanner = new Scanner(file);
-            Driver(scanner, "Backtrack", "VAH5", new File("outputs/output BT+VAH5 "+fileName));
+            Driver(scanner, "Backtrack", "VAH2", new File("outputs/output BT+VAH2 "+fileName));
         }
+
+
+
+
+
     }
 }

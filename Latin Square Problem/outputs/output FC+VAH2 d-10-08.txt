@@ -10,5 +10,5 @@ Printing solution for Forward Checking and VAH2:
 10  8  9  2  4  5  6  7  3  1  
 7  10  5  4  2  9  3  1  6  8  
 Total Nodes: 75343876
-Total Backtracks: 75343818
-Total time: 306366 ms
+Total Backtracks: 20485700
+Total time: 270199 ms

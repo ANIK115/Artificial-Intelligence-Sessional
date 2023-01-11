@@ -10,5 +10,5 @@ Printing solution for Backtracking and VAH1:
 3  6  10  9  1  7  8  5  2  4  
 7  9  5  6  10  8  1  4  3  2  
 Total Nodes: 245
-Total Backtracks: 187
-Total time: 15 ms
+Total Backtracks: 18
+Total time: 0 ms
