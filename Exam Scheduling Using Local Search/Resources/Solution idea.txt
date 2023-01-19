@@ -1,0 +1,68 @@
+Given:  Courses: Course and number of students
+	Students: Student and the courses he/she has taken
+
+Map the problem to Graph Coloring
+
+Vertex: Course
+Edge:   an edge between Courses that have common student(s)
+
+Generate a solution maintaining the hard constraint: Constructive Heuristics
+1) Largest Degree: The node with the largest number of edges (conflicting examinations) is
+scheduled first. Tie-break randomly
+
+
+2) Saturation degree: https://en.wikipedia.org/wiki/DSatur
+
+
+3) Largest enrollment: The largest number of students registered for the examinations is
+scheduled first.
+
+
+4) Random ordering: One randomly picked node (course) will be colored (scheduled).
+Nevertheless, you are free to devise any creative heuristic here instead of randomly picking
+up any node.
+
+
+Using any of the above 4 heuristics, we'll get a proper coloring(proper scheduling)
+where each pair of adjacent vertices in set V are assigned distinct color.
+
+Then we need to work for reducing penalty(Soft constraint): Perturbative Heuristics:
+
+1) Kempe-chain Interchange:
+
+A kempe chain is a maximal connected subgraph containing vertex v with color i(i is color of v)
+and all other vertices of this connected subgraph are either colored i or j(this is another color)
+
+Take a particular Kempe chain and swap the colors of all vertices
+
+(you should run kempe-chain minimum 1000 times as long as it is reducing penalty)
+
+
+kempe chain idea:
+
+get all the vertex pairs that have different colors and keep it in a list
+iterate over this list and randomly choose a pair and choose one vertex of the pair as u(and its color
+will be color i) and choose other vertex's color as color j and then create
+kempe chain (the maximal connected subgraph)
+
+Now take the kempe chain and swap the colors of every vertex of this chain
+there vertices have only two colors
+so
+if(u.color == i) then u.color = j
+else u.color = i;
+
+after swapping colors of the whole chain, calculate penalty
+if the penalty reduces, then take this else revert the color swap
+
+
+2) Pair Swap Operator:
+
+
+
+Other helping methods:
+makeGraph() : Graph
+getPenalty() : double
+getKempeChain() : List
+getPairsWithDifferentColor() : List => Complexity O(n^2)
+
+
