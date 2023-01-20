@@ -5,6 +5,8 @@ import base.Vertex;
 import base.data.Course;
 import base.data.Student;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.*;
 
 public class KempeChain {
@@ -12,12 +14,22 @@ public class KempeChain {
     Graph graph;
     List<Student> students;
     HashMap<Integer, Vertex> map;
+    Penalty penalty;
+    FileWriter writer;
 
     public KempeChain(Graph graph) {
         pairs = new ArrayList<>();
         this.graph = graph;
         students = new ArrayList<>();
         map = new HashMap<>();
+    }
+
+    public void setWriter(FileWriter writer) {
+        this.writer = writer;
+    }
+
+    public void setPenalty(Penalty penalty) {
+        this.penalty = penalty;
     }
 
     public void setStudents(List<Student> students) {
@@ -87,7 +99,6 @@ public class KempeChain {
 
     public void colorSwap(int day1, int day2, List<Vertex> kempechain)
     {
-        Penalty penalty = new LinearPenalty();
         double prevPenalty = penalty.getPenalty(students, map);
         for(Vertex v : kempechain)
         {
@@ -116,13 +127,12 @@ public class KempeChain {
         colorSwap(day1, day2, kempechain);
     }
 
-    public double keepReducingPenalty(int iterations)
-    {
+    public double keepReducingPenalty(int iterations) throws IOException {
         pairs = createDiffColorPairs();
         Random random = new Random(3);
-        Penalty penalty = new LinearPenalty();
         double totalPenalty = penalty.getPenalty(students, map);
-        System.out.println("Penalty before kempe chain: "+totalPenalty);
+        writer.write("Penalty before kempe chain: "+totalPenalty+"\n");
+        writer.flush();
         for(int i=0; i<iterations; i++)
         {
             int ind = random.nextInt(pairs.size());
@@ -131,12 +141,15 @@ public class KempeChain {
             colorSwap(pair.u.getDay(), pair.v.getDay(), kempechain);
         }
         totalPenalty = penalty.getPenalty(students, map);
-        System.out.println("Penalty after kempe chain: "+totalPenalty);
+        writer.write("Penalty after kempe chain: "+totalPenalty+"\n");
+        writer.flush();
         PairSwapOperator pso = new PairSwapOperator(this.graph);
+        pso.setPenalty(this.penalty);
         pso.setMap();
         pso.setStudents(this.students);
-        double penaltyAfterPairSwap = pso.reducePenalty(1500);
-        System.out.println("Penalty after running Pair swap operator: "+penaltyAfterPairSwap);
+        double penaltyAfterPairSwap = pso.reducePenalty(2000);
+        writer.write("Penalty after running Pair swap operator: "+penaltyAfterPairSwap+"\n");
+        writer.flush();
         return penaltyAfterPairSwap;
     }
 

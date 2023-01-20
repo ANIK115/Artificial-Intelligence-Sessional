@@ -1,0 +1,1882 @@
+Student: 1
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 174, exam day: 3----
+Student: 2
+Course: 7, exam day: 5----Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 152, exam day: 24----
+Student: 3
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 174, exam day: 3----
+Student: 4
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 94, exam day: 15----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 5
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 6
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 7
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 94, exam day: 15----Course: 111, exam day: 6----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 8
+Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 58, exam day: 9----Course: 79, exam day: 18----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----
+Student: 9
+Course: 6, exam day: 11----Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 10
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 11
+Course: 6, exam day: 11----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 12
+Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 13
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 14
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 94, exam day: 15----Course: 111, exam day: 6----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 15
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 173, exam day: 11----
+Student: 16
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 17
+Course: 27, exam day: 10----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 18
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----
+Student: 19
+Course: 7, exam day: 5----Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 20
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 21
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 22
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 153, exam day: 13----Course: 167, exam day: 25----Course: 173, exam day: 11----
+Student: 23
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 24
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 25
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 108, exam day: 26----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 166, exam day: 25----Course: 174, exam day: 3----
+Student: 26
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 27
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 28
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 29
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 30
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 31
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 32
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 173, exam day: 11----
+Student: 33
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 34
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 70, exam day: 9----Course: 108, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 35
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 58, exam day: 9----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 36
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 37
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----
+Student: 38
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 39
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----
+Student: 40
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 41
+Course: 30, exam day: 1----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 42
+Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 43
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----
+Student: 44
+Course: 29, exam day: 2----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----
+Student: 45
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----
+Student: 46
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 108, exam day: 26----Course: 120, exam day: 14----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 47
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 48
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 49
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 120, exam day: 14----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 50
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 174, exam day: 3----
+Student: 51
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 109, exam day: 26----Course: 120, exam day: 14----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 52
+Course: 30, exam day: 1----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----
+Student: 53
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 54
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----
+Student: 55
+Course: 27, exam day: 10----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 56
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 57
+Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 111, exam day: 6----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----
+Student: 58
+Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----Course: 167, exam day: 25----
+Student: 59
+Course: 25, exam day: 6----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 173, exam day: 11----
+Student: 60
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----
+Student: 61
+Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 62
+Course: 7, exam day: 5----Course: 15, exam day: 19----Course: 24, exam day: 6----Course: 30, exam day: 1----Course: 58, exam day: 9----Course: 80, exam day: 18----
+Student: 63
+Course: 25, exam day: 6----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 64
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 65
+Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 58, exam day: 9----Course: 79, exam day: 18----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 66
+Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----Course: 173, exam day: 11----
+Student: 67
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 68
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 69
+Course: 15, exam day: 19----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 131, exam day: 21----Course: 160, exam day: 15----Course: 166, exam day: 25----Course: 174, exam day: 3----
+Student: 70
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 71
+Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 81, exam day: 19----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 72
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 73
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----
+Student: 74
+Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 75
+Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 94, exam day: 15----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 76
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 77
+Course: 25, exam day: 6----Course: 29, exam day: 2----Course: 70, exam day: 9----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 173, exam day: 11----
+Student: 78
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 173, exam day: 11----
+Student: 79
+Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 111, exam day: 6----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 80
+Course: 25, exam day: 6----Course: 30, exam day: 1----Course: 70, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----
+Student: 81
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 82
+Course: 24, exam day: 6----Course: 28, exam day: 1----Course: 58, exam day: 9----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 83
+Course: 6, exam day: 11----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 108, exam day: 26----Course: 120, exam day: 14----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----
+Student: 84
+Course: 15, exam day: 19----Course: 24, exam day: 6----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 94, exam day: 15----Course: 130, exam day: 23----Course: 173, exam day: 11----
+Student: 85
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----
+Student: 86
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 94, exam day: 15----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 154, exam day: 12----
+Student: 87
+Course: 25, exam day: 6----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 88
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 89
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 111, exam day: 6----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 90
+Course: 27, exam day: 10----Course: 30, exam day: 1----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 91
+Course: 27, exam day: 10----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 92
+Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 91, exam day: 16----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 93
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 94
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 153, exam day: 13----Course: 159, exam day: 17----Course: 174, exam day: 3----
+Student: 95
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 109, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 96
+Course: 31, exam day: 2----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 159, exam day: 17----Course: 173, exam day: 11----
+Student: 97
+Course: 6, exam day: 11----Course: 15, exam day: 19----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 167, exam day: 25----
+Student: 98
+Course: 30, exam day: 1----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 174, exam day: 3----
+Student: 99
+Course: 24, exam day: 6----Course: 28, exam day: 1----Course: 58, exam day: 9----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 100
+Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 101
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 102
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 103
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 91, exam day: 16----Course: 109, exam day: 26----Course: 120, exam day: 14----Course: 131, exam day: 21----Course: 154, exam day: 12----
+Student: 104
+Course: 27, exam day: 10----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 105
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 106
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 70, exam day: 9----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----
+Student: 107
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 120, exam day: 14----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 108
+Course: 30, exam day: 1----Course: 58, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 109
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 110
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 111
+Course: 25, exam day: 6----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 112
+Course: 6, exam day: 11----Course: 29, exam day: 2----Course: 58, exam day: 9----Course: 109, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 174, exam day: 3----
+Student: 113
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 49, exam day: 20----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 114
+Course: 7, exam day: 5----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 115
+Course: 7, exam day: 5----Course: 15, exam day: 19----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 116
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 117
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 80, exam day: 18----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 118
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----
+Student: 119
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----
+Student: 120
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 121
+Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 174, exam day: 3----
+Student: 122
+Course: 26, exam day: 9----Course: 29, exam day: 2----Course: 60, exam day: 7----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 123
+Course: 30, exam day: 1----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 174, exam day: 3----
+Student: 124
+Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 125
+Course: 15, exam day: 19----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----Course: 173, exam day: 11----
+Student: 126
+Course: 24, exam day: 6----Course: 28, exam day: 1----Course: 58, exam day: 9----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 127
+Course: 6, exam day: 11----Course: 27, exam day: 10----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 111, exam day: 6----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 128
+Course: 28, exam day: 1----Course: 58, exam day: 9----Course: 80, exam day: 18----Course: 107, exam day: 14----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----Course: 173, exam day: 11----
+Student: 129
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----
+Student: 130
+Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 131
+Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 173, exam day: 11----
+Student: 132
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 159, exam day: 17----Course: 174, exam day: 3----
+Student: 133
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----Course: 174, exam day: 3----
+Student: 134
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 135
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 173, exam day: 11----
+Student: 136
+Course: 29, exam day: 2----Course: 70, exam day: 9----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 160, exam day: 15----
+Student: 137
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 160, exam day: 15----
+Student: 138
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 58, exam day: 9----Course: 107, exam day: 14----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 139
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 81, exam day: 19----Course: 109, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 140
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 167, exam day: 25----Course: 173, exam day: 11----
+Student: 141
+Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 173, exam day: 11----
+Student: 142
+Course: 6, exam day: 11----Course: 27, exam day: 10----Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 110, exam day: 26----Course: 130, exam day: 23----Course: 153, exam day: 13----Course: 174, exam day: 3----
+Student: 143
+Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 144
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----
+Student: 145
+Course: 6, exam day: 11----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 108, exam day: 26----Course: 121, exam day: 3----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 146
+Course: 29, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----
+Student: 147
+Course: 31, exam day: 2----Course: 49, exam day: 20----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 160, exam day: 15----
+Student: 148
+Course: 24, exam day: 6----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----
+Student: 149
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 110, exam day: 26----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 160, exam day: 15----Course: 166, exam day: 25----
+Student: 150
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 151
+Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 80, exam day: 18----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 159, exam day: 17----Course: 167, exam day: 25----
+Student: 152
+Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----
+Student: 153
+Course: 6, exam day: 11----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 109, exam day: 26----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 166, exam day: 25----
+Student: 154
+Course: 24, exam day: 6----Course: 28, exam day: 1----Course: 70, exam day: 9----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 152, exam day: 24----Course: 167, exam day: 25----Course: 174, exam day: 3----
+Student: 155
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 94, exam day: 15----Course: 107, exam day: 14----Course: 131, exam day: 21----Course: 154, exam day: 12----Course: 166, exam day: 25----
+Student: 156
+Course: 7, exam day: 5----Course: 30, exam day: 1----Course: 59, exam day: 9----Course: 94, exam day: 15----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 153, exam day: 13----
+Student: 157
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 158
+Course: 31, exam day: 2----Course: 59, exam day: 9----Course: 79, exam day: 18----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 132, exam day: 23----Course: 153, exam day: 13----Course: 159, exam day: 17----
+Student: 159
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 90, exam day: 11----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 151, exam day: 22----Course: 155, exam day: 6----
+Student: 160
+Course: 5, exam day: 10----Course: 6, exam day: 11----Course: 13, exam day: 23----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 141, exam day: 8----Course: 159, exam day: 17----Course: 171, exam day: 16----
+Student: 161
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 88, exam day: 26----Course: 124, exam day: 20----Course: 146, exam day: 8----Course: 165, exam day: 15----
+Student: 162
+Course: 9, exam day: 25----Course: 42, exam day: 1----Course: 53, exam day: 12----Course: 66, exam day: 9----Course: 88, exam day: 26----Course: 89, exam day: 10----Course: 103, exam day: 20----
+Student: 163
+Course: 34, exam day: 1----Course: 63, exam day: 15----Course: 82, exam day: 13----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 144, exam day: 19----Course: 155, exam day: 6----Course: 170, exam day: 9----
+Student: 164
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 90, exam day: 11----Course: 100, exam day: 18----
+Student: 165
+Course: 9, exam day: 25----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 89, exam day: 10----
+Student: 166
+Course: 42, exam day: 1----Course: 48, exam day: 23----Course: 75, exam day: 25----Course: 89, exam day: 10----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 164, exam day: 13----
+Student: 167
+Course: 11, exam day: 23----Course: 18, exam day: 13----Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 113, exam day: 26----Course: 162, exam day: 15----
+Student: 168
+Course: 47, exam day: 26----Course: 74, exam day: 6----Course: 90, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 180, exam day: 9----
+Student: 169
+Course: 40, exam day: 2----Course: 54, exam day: 7----Course: 118, exam day: 14----Course: 140, exam day: 13----Course: 146, exam day: 8----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 170
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----Course: 179, exam day: 3----
+Student: 171
+Course: 39, exam day: 3----Course: 76, exam day: 18----Course: 87, exam day: 6----Course: 118, exam day: 14----Course: 140, exam day: 13----Course: 148, exam day: 26----Course: 178, exam day: 11----
+Student: 172
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 56, exam day: 16----Course: 86, exam day: 24----Course: 116, exam day: 19----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 142, exam day: 23----
+Student: 173
+Course: 34, exam day: 1----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 143, exam day: 9----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 174
+Course: 34, exam day: 1----Course: 58, exam day: 9----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 168, exam day: 14----Course: 169, exam day: 10----
+Student: 175
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 73, exam day: 7----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 143, exam day: 9----Course: 149, exam day: 25----
+Student: 176
+Course: 4, exam day: 5----Course: 37, exam day: 1----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 177
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 83, exam day: 24----Course: 109, exam day: 26----Course: 125, exam day: 7----Course: 133, exam day: 21----Course: 153, exam day: 13----
+Student: 178
+Course: 37, exam day: 1----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 179
+Course: 39, exam day: 3----Course: 87, exam day: 6----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 180
+Course: 3, exam day: 9----Course: 14, exam day: 8----Course: 23, exam day: 26----Course: 40, exam day: 2----Course: 119, exam day: 20----Course: 178, exam day: 11----
+Student: 181
+Course: 1, exam day: 2----Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 156, exam day: 25----
+Student: 182
+Course: 20, exam day: 16----Course: 41, exam day: 1----Course: 73, exam day: 7----Course: 75, exam day: 25----
+Student: 183
+Course: 21, exam day: 7----Course: 34, exam day: 1----Course: 84, exam day: 17----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 129, exam day: 18----Course: 143, exam day: 9----Course: 155, exam day: 6----
+Student: 184
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 185
+Course: 1, exam day: 2----Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 78, exam day: 18----Course: 95, exam day: 22----Course: 113, exam day: 26----Course: 162, exam day: 15----
+Student: 186
+Course: 24, exam day: 6----Course: 34, exam day: 1----Course: 78, exam day: 18----Course: 113, exam day: 26----Course: 136, exam day: 11----Course: 143, exam day: 9----
+Student: 187
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 188
+Course: 47, exam day: 26----Course: 68, exam day: 16----Course: 73, exam day: 7----Course: 124, exam day: 20----
+Student: 189
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 55, exam day: 6----Course: 77, exam day: 10----Course: 90, exam day: 11----Course: 91, exam day: 16----
+Student: 190
+Course: 56, exam day: 16----Course: 119, exam day: 20----Course: 142, exam day: 23----Course: 143, exam day: 9----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 191
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 192
+Course: 2, exam day: 4----Course: 33, exam day: 1----Course: 104, exam day: 11----Course: 109, exam day: 26----Course: 123, exam day: 9----Course: 126, exam day: 15----Course: 156, exam day: 25----
+Student: 193
+Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 120, exam day: 14----Course: 134, exam day: 8----Course: 143, exam day: 9----Course: 162, exam day: 15----Course: 175, exam day: 21----
+Student: 194
+Course: 11, exam day: 23----Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 113, exam day: 26----Course: 122, exam day: 16----Course: 134, exam day: 8----Course: 156, exam day: 25----Course: 162, exam day: 15----
+Student: 195
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 171, exam day: 16----
+Student: 196
+Course: 39, exam day: 3----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 138, exam day: 4----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 197
+Course: 11, exam day: 23----Course: 14, exam day: 8----Course: 32, exam day: 1----Course: 113, exam day: 26----Course: 122, exam day: 16----Course: 129, exam day: 18----Course: 152, exam day: 24----Course: 161, exam day: 5----
+Student: 198
+Course: 3, exam day: 9----Course: 39, exam day: 3----Course: 78, exam day: 18----Course: 89, exam day: 10----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 149, exam day: 25----
+Student: 199
+Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 79, exam day: 18----Course: 83, exam day: 24----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 153, exam day: 13----Course: 156, exam day: 25----
+Student: 200
+Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 100, exam day: 18----Course: 124, exam day: 20----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 201
+Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 18, exam day: 13----Course: 36, exam day: 1----Course: 51, exam day: 26----Course: 161, exam day: 5----Course: 175, exam day: 21----
+Student: 202
+Course: 13, exam day: 23----Course: 37, exam day: 1----Course: 55, exam day: 6----
+Student: 203
+Course: 10, exam day: 21----Course: 27, exam day: 10----Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 65, exam day: 26----Course: 74, exam day: 6----Course: 93, exam day: 15----
+Student: 204
+Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 205
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 84, exam day: 17----Course: 105, exam day: 15----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 125, exam day: 7----Course: 153, exam day: 13----
+Student: 206
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 207
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 128, exam day: 11----Course: 142, exam day: 23----Course: 181, exam day: 16----
+Student: 208
+Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 209
+Course: 4, exam day: 5----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 118, exam day: 14----Course: 163, exam day: 21----
+Student: 210
+Course: 12, exam day: 22----Course: 15, exam day: 19----Course: 16, exam day: 25----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 54, exam day: 7----Course: 136, exam day: 11----Course: 163, exam day: 21----
+Student: 211
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 129, exam day: 18----Course: 143, exam day: 9----Course: 161, exam day: 5----Course: 176, exam day: 15----
+Student: 212
+Course: 39, exam day: 3----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 213
+Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 89, exam day: 10----Course: 164, exam day: 13----
+Student: 214
+Course: 2, exam day: 4----Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 134, exam day: 8----Course: 156, exam day: 25----Course: 162, exam day: 15----
+Student: 215
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 135, exam day: 18----Course: 155, exam day: 6----Course: 170, exam day: 9----
+Student: 216
+Course: 23, exam day: 26----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 57, exam day: 7----Course: 118, exam day: 14----Course: 129, exam day: 18----
+Student: 217
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 165, exam day: 15----
+Student: 218
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 90, exam day: 11----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 146, exam day: 8----
+Student: 219
+Course: 21, exam day: 7----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 123, exam day: 9----
+Student: 220
+Course: 42, exam day: 1----Course: 68, exam day: 16----Course: 74, exam day: 6----
+Student: 221
+Course: 88, exam day: 26----Course: 102, exam day: 14----Course: 164, exam day: 13----
+Student: 222
+Course: 9, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 223
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 19, exam day: 26----Course: 40, exam day: 2----
+Student: 224
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 94, exam day: 15----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 225
+Course: 2, exam day: 4----Course: 43, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 123, exam day: 9----Course: 127, exam day: 25----Course: 163, exam day: 21----
+Student: 226
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 142, exam day: 23----
+Student: 227
+Course: 1, exam day: 2----Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 228
+Course: 33, exam day: 1----Course: 84, exam day: 17----Course: 92, exam day: 26----Course: 94, exam day: 15----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 229
+Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 143, exam day: 9----Course: 151, exam day: 22----Course: 158, exam day: 7----Course: 172, exam day: 21----Course: 179, exam day: 3----
+Student: 230
+Course: 5, exam day: 10----Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 231
+Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 104, exam day: 11----
+Student: 232
+Course: 43, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 103, exam day: 20----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 157, exam day: 6----Course: 181, exam day: 16----
+Student: 233
+Course: 10, exam day: 21----Course: 47, exam day: 26----Course: 75, exam day: 25----Course: 89, exam day: 10----Course: 97, exam day: 19----Course: 158, exam day: 7----
+Student: 234
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 235
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 106, exam day: 4----Course: 146, exam day: 8----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 236
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 76, exam day: 18----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 128, exam day: 11----Course: 139, exam day: 7----Course: 149, exam day: 25----
+Student: 237
+Course: 4, exam day: 5----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 104, exam day: 11----Course: 106, exam day: 4----Course: 157, exam day: 6----
+Student: 238
+Course: 4, exam day: 5----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 239
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 40, exam day: 2----Course: 157, exam day: 6----
+Student: 240
+Course: 19, exam day: 26----Course: 98, exam day: 25----Course: 99, exam day: 24----Course: 150, exam day: 13----Course: 157, exam day: 6----Course: 158, exam day: 7----
+Student: 241
+Course: 5, exam day: 10----Course: 13, exam day: 23----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 116, exam day: 19----Course: 141, exam day: 8----Course: 147, exam day: 18----Course: 178, exam day: 11----
+Student: 242
+Course: 43, exam day: 2----Course: 68, exam day: 16----Course: 85, exam day: 6----Course: 142, exam day: 23----
+Student: 243
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 120, exam day: 14----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 244
+Course: 78, exam day: 18----Course: 85, exam day: 6----Course: 118, exam day: 14----Course: 123, exam day: 9----
+Student: 245
+Course: 32, exam day: 1----Course: 58, exam day: 9----Course: 71, exam day: 7----Course: 128, exam day: 11----Course: 135, exam day: 18----Course: 141, exam day: 8----Course: 161, exam day: 5----
+Student: 246
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 146, exam day: 8----
+Student: 247
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 141, exam day: 8----
+Student: 248
+Course: 164, exam day: 13----Course: 179, exam day: 3----
+Student: 249
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 83, exam day: 24----Course: 106, exam day: 4----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 135, exam day: 18----Course: 156, exam day: 25----
+Student: 250
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 68, exam day: 16----Course: 77, exam day: 10----Course: 85, exam day: 6----Course: 119, exam day: 20----Course: 163, exam day: 21----
+Student: 251
+Course: 8, exam day: 19----Course: 10, exam day: 21----Course: 17, exam day: 24----Course: 20, exam day: 16----Course: 118, exam day: 14----
+Student: 252
+Course: 43, exam day: 2----Course: 51, exam day: 26----Course: 76, exam day: 18----Course: 87, exam day: 6----Course: 119, exam day: 20----Course: 138, exam day: 4----Course: 149, exam day: 25----Course: 178, exam day: 11----
+Student: 253
+Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 89, exam day: 10----Course: 164, exam day: 13----Course: 180, exam day: 9----Course: 181, exam day: 16----
+Student: 254
+Course: 10, exam day: 21----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 52, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 255
+Course: 48, exam day: 23----Course: 73, exam day: 7----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 157, exam day: 6----
+Student: 256
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 86, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 138, exam day: 4----Course: 148, exam day: 26----
+Student: 257
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 258
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 103, exam day: 20----Course: 120, exam day: 14----
+Student: 259
+Course: 11, exam day: 23----Course: 39, exam day: 3----Course: 77, exam day: 10----Course: 87, exam day: 6----Course: 96, exam day: 18----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 260
+Course: 14, exam day: 8----Course: 23, exam day: 26----Course: 39, exam day: 3----Course: 77, exam day: 10----Course: 116, exam day: 19----Course: 163, exam day: 21----
+Student: 261
+Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 141, exam day: 8----Course: 148, exam day: 26----
+Student: 262
+Course: 8, exam day: 19----Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 49, exam day: 20----Course: 79, exam day: 18----Course: 113, exam day: 26----Course: 140, exam day: 13----
+Student: 263
+Course: 90, exam day: 11----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 157, exam day: 6----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 264
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----
+Student: 265
+Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 92, exam day: 26----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 149, exam day: 25----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 266
+Course: 8, exam day: 19----Course: 14, exam day: 8----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 123, exam day: 9----
+Student: 267
+Course: 1, exam day: 2----Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 137, exam day: 3----Course: 168, exam day: 14----
+Student: 268
+Course: 11, exam day: 23----Course: 39, exam day: 3----Course: 53, exam day: 12----Course: 71, exam day: 7----Course: 140, exam day: 13----Course: 163, exam day: 21----
+Student: 269
+Course: 25, exam day: 6----Course: 33, exam day: 1----Course: 113, exam day: 26----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 169, exam day: 10----Course: 173, exam day: 11----Course: 175, exam day: 21----
+Student: 270
+Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 100, exam day: 18----Course: 150, exam day: 13----
+Student: 271
+Course: 1, exam day: 2----Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 62, exam day: 7----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 144, exam day: 19----
+Student: 272
+Course: 37, exam day: 1----Course: 65, exam day: 26----Course: 87, exam day: 6----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 106, exam day: 4----Course: 149, exam day: 25----
+Student: 273
+Course: 89, exam day: 10----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 274
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 169, exam day: 10----
+Student: 275
+Course: 89, exam day: 10----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 142, exam day: 23----
+Student: 276
+Course: 40, exam day: 2----Course: 55, exam day: 6----Course: 77, exam day: 10----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 140, exam day: 13----
+Student: 277
+Course: 24, exam day: 6----Course: 46, exam day: 1----Course: 79, exam day: 18----
+Student: 278
+Course: 10, exam day: 21----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 279
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 82, exam day: 13----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----
+Student: 280
+Course: 43, exam day: 2----Course: 47, exam day: 26----Course: 52, exam day: 11----Course: 74, exam day: 6----Course: 117, exam day: 9----
+Student: 281
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 77, exam day: 10----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 148, exam day: 26----
+Student: 282
+Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 100, exam day: 18----Course: 145, exam day: 4----
+Student: 283
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 92, exam day: 26----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 169, exam day: 10----
+Student: 284
+Course: 33, exam day: 1----Course: 79, exam day: 18----Course: 83, exam day: 24----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 168, exam day: 14----
+Student: 285
+Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----
+Student: 286
+Course: 30, exam day: 1----Course: 63, exam day: 15----Course: 79, exam day: 18----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 153, exam day: 13----
+Student: 287
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 149, exam day: 25----Course: 172, exam day: 21----
+Student: 288
+Course: 9, exam day: 25----Course: 74, exam day: 6----Course: 100, exam day: 18----Course: 101, exam day: 19----Course: 103, exam day: 20----
+Student: 289
+Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 158, exam day: 7----
+Student: 290
+Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 50, exam day: 14----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 291
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 168, exam day: 14----Course: 169, exam day: 10----Course: 176, exam day: 15----
+Student: 292
+Course: 10, exam day: 21----Course: 13, exam day: 23----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 116, exam day: 19----Course: 139, exam day: 7----Course: 165, exam day: 15----
+Student: 293
+Course: 1, exam day: 2----Course: 12, exam day: 22----Course: 15, exam day: 19----Course: 16, exam day: 25----Course: 34, exam day: 1----Course: 54, exam day: 7----Course: 136, exam day: 11----
+Student: 294
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 24, exam day: 6----Course: 32, exam day: 1----Course: 54, exam day: 7----Course: 126, exam day: 15----Course: 134, exam day: 8----Course: 175, exam day: 21----
+Student: 295
+Course: 37, exam day: 1----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 296
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 62, exam day: 7----Course: 67, exam day: 24----Course: 77, exam day: 10----Course: 118, exam day: 14----Course: 149, exam day: 25----
+Student: 297
+Course: 43, exam day: 2----Course: 89, exam day: 10----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 298
+Course: 33, exam day: 1----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 169, exam day: 10----
+Student: 299
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 102, exam day: 14----
+Student: 300
+Course: 3, exam day: 9----Course: 24, exam day: 6----Course: 116, exam day: 19----Course: 177, exam day: 5----
+Student: 301
+Course: 37, exam day: 1----Course: 56, exam day: 16----Course: 85, exam day: 6----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 149, exam day: 25----
+Student: 302
+Course: 2, exam day: 4----Course: 20, exam day: 16----Course: 37, exam day: 1----Course: 67, exam day: 24----Course: 96, exam day: 18----Course: 118, exam day: 14----Course: 149, exam day: 25----
+Student: 303
+Course: 19, exam day: 26----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 61, exam day: 11----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 304
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 61, exam day: 11----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 305
+Course: 7, exam day: 5----Course: 8, exam day: 19----Course: 13, exam day: 23----Course: 58, exam day: 9----Course: 141, exam day: 8----Course: 173, exam day: 11----Course: 176, exam day: 15----
+Student: 306
+Course: 45, exam day: 1----Course: 53, exam day: 12----Course: 116, exam day: 19----Course: 142, exam day: 23----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 307
+Course: 9, exam day: 25----Course: 45, exam day: 1----Course: 47, exam day: 26----Course: 61, exam day: 11----Course: 140, exam day: 13----Course: 165, exam day: 15----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 308
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 125, exam day: 7----Course: 161, exam day: 5----Course: 176, exam day: 15----
+Student: 309
+Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 143, exam day: 9----Course: 156, exam day: 25----Course: 175, exam day: 21----
+Student: 310
+Course: 11, exam day: 23----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 155, exam day: 6----
+Student: 311
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 92, exam day: 26----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 170, exam day: 9----
+Student: 312
+Course: 41, exam day: 1----Course: 88, exam day: 26----
+Student: 313
+Course: 1, exam day: 2----Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 170, exam day: 9----Course: 176, exam day: 15----
+Student: 314
+Course: 3, exam day: 9----Course: 8, exam day: 19----Course: 23, exam day: 26----Course: 85, exam day: 6----
+Student: 315
+Course: 65, exam day: 26----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 316
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 317
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 78, exam day: 18----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 163, exam day: 21----
+Student: 318
+Course: 39, exam day: 3----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 86, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 134, exam day: 8----Course: 155, exam day: 6----
+Student: 319
+Course: 43, exam day: 2----Course: 89, exam day: 10----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 157, exam day: 6----
+Student: 320
+Course: 42, exam day: 1----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 321
+Course: 11, exam day: 23----Course: 15, exam day: 19----Course: 30, exam day: 1----Course: 60, exam day: 7----Course: 72, exam day: 8----Course: 108, exam day: 26----Course: 137, exam day: 3----Course: 153, exam day: 13----
+Student: 322
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 323
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 158, exam day: 7----
+Student: 324
+Course: 34, exam day: 1----Course: 62, exam day: 7----Course: 84, exam day: 17----Course: 92, exam day: 26----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 325
+Course: 3, exam day: 9----Course: 5, exam day: 10----Course: 23, exam day: 26----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 56, exam day: 16----Course: 76, exam day: 18----
+Student: 326
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 87, exam day: 6----Course: 94, exam day: 15----Course: 115, exam day: 12----Course: 125, exam day: 7----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 327
+Course: 33, exam day: 1----Course: 83, exam day: 24----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 136, exam day: 11----Course: 155, exam day: 6----Course: 161, exam day: 5----
+Student: 328
+Course: 11, exam day: 23----Course: 16, exam day: 25----Course: 32, exam day: 1----Course: 58, exam day: 9----Course: 126, exam day: 15----Course: 152, exam day: 24----Course: 169, exam day: 10----
+Student: 329
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 179, exam day: 3----
+Student: 330
+Course: 4, exam day: 5----Course: 8, exam day: 19----Course: 39, exam day: 3----Course: 76, exam day: 18----
+Student: 331
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 332
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 333
+Course: 13, exam day: 23----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 117, exam day: 9----Course: 128, exam day: 11----Course: 139, exam day: 7----Course: 171, exam day: 16----
+Student: 334
+Course: 3, exam day: 9----Course: 5, exam day: 10----Course: 43, exam day: 2----Course: 57, exam day: 7----Course: 116, exam day: 19----Course: 148, exam day: 26----
+Student: 335
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 336
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 162, exam day: 15----Course: 175, exam day: 21----
+Student: 337
+Course: 37, exam day: 1----Course: 54, exam day: 7----Course: 66, exam day: 9----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 338
+Course: 4, exam day: 5----Course: 9, exam day: 25----Course: 41, exam day: 1----Course: 53, exam day: 12----Course: 124, exam day: 20----
+Student: 339
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 340
+Course: 1, exam day: 2----Course: 8, exam day: 19----Course: 12, exam day: 22----Course: 13, exam day: 23----Course: 36, exam day: 1----Course: 57, exam day: 7----Course: 112, exam day: 12----
+Student: 341
+Course: 9, exam day: 25----Course: 42, exam day: 1----Course: 65, exam day: 26----
+Student: 342
+Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 343
+Course: 13, exam day: 23----Course: 17, exam day: 24----Course: 36, exam day: 1----Course: 55, exam day: 6----Course: 129, exam day: 18----
+Student: 344
+Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 345
+Course: 9, exam day: 25----Course: 52, exam day: 11----Course: 74, exam day: 6----Course: 100, exam day: 18----
+Student: 346
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 51, exam day: 26----Course: 57, exam day: 7----Course: 63, exam day: 15----Course: 67, exam day: 24----Course: 82, exam day: 13----
+Student: 347
+Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 164, exam day: 13----
+Student: 348
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 61, exam day: 11----Course: 74, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 349
+Course: 4, exam day: 5----Course: 39, exam day: 3----Course: 64, exam day: 23----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 350
+Course: 5, exam day: 10----Course: 8, exam day: 19----Course: 33, exam day: 1----Course: 70, exam day: 9----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 122, exam day: 16----Course: 141, exam day: 8----
+Student: 351
+Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 104, exam day: 11----Course: 106, exam day: 4----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 352
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 168, exam day: 14----
+Student: 353
+Course: 3, exam day: 9----Course: 37, exam day: 1----Course: 57, exam day: 7----Course: 86, exam day: 24----Course: 118, exam day: 14----
+Student: 354
+Course: 3, exam day: 9----Course: 48, exam day: 23----Course: 74, exam day: 6----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 355
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 356
+Course: 33, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 105, exam day: 15----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 169, exam day: 10----
+Student: 357
+Course: 4, exam day: 5----Course: 43, exam day: 2----Course: 74, exam day: 6----Course: 88, exam day: 26----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 358
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 43, exam day: 2----Course: 63, exam day: 15----Course: 65, exam day: 26----Course: 76, exam day: 18----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 150, exam day: 13----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 359
+Course: 1, exam day: 2----Course: 33, exam day: 1----Course: 83, exam day: 24----Course: 105, exam day: 15----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 155, exam day: 6----
+Student: 360
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 21, exam day: 7----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 78, exam day: 18----Course: 113, exam day: 26----Course: 161, exam day: 5----
+Student: 361
+Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 158, exam day: 7----Course: 165, exam day: 15----
+Student: 362
+Course: 11, exam day: 23----Course: 22, exam day: 2----Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 83, exam day: 24----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 136, exam day: 11----
+Student: 363
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 68, exam day: 16----
+Student: 364
+Course: 40, exam day: 2----Course: 74, exam day: 6----
+Student: 365
+Course: 12, exam day: 22----Course: 34, exam day: 1----Course: 82, exam day: 13----Course: 122, exam day: 16----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 366
+Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 367
+Course: 39, exam day: 3----Course: 55, exam day: 6----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 140, exam day: 13----
+Student: 368
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 145, exam day: 4----Course: 158, exam day: 7----
+Student: 369
+Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 129, exam day: 18----Course: 148, exam day: 26----
+Student: 370
+Course: 11, exam day: 23----Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 170, exam day: 9----
+Student: 371
+Course: 5, exam day: 10----Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 72, exam day: 8----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 168, exam day: 14----
+Student: 372
+Course: 74, exam day: 6----Course: 102, exam day: 14----Course: 142, exam day: 23----
+Student: 373
+Course: 1, exam day: 2----Course: 11, exam day: 23----Course: 15, exam day: 19----Course: 34, exam day: 1----Course: 83, exam day: 24----Course: 92, exam day: 26----Course: 95, exam day: 22----
+Student: 374
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 156, exam day: 25----Course: 170, exam day: 9----Course: 175, exam day: 21----
+Student: 375
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 88, exam day: 26----Course: 164, exam day: 13----
+Student: 376
+Course: 2, exam day: 4----Course: 14, exam day: 8----Course: 36, exam day: 1----Course: 118, exam day: 14----Course: 127, exam day: 25----Course: 139, exam day: 7----Course: 169, exam day: 10----Course: 171, exam day: 16----
+Student: 377
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 156, exam day: 25----Course: 169, exam day: 10----Course: 176, exam day: 15----
+Student: 378
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 83, exam day: 24----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 379
+Course: 40, exam day: 2----Course: 61, exam day: 11----Course: 66, exam day: 9----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----
+Student: 380
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 69, exam day: 10----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 125, exam day: 7----Course: 128, exam day: 11----
+Student: 381
+Course: 42, exam day: 1----Course: 88, exam day: 26----Course: 102, exam day: 14----
+Student: 382
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 383
+Course: 40, exam day: 2----Course: 157, exam day: 6----
+Student: 384
+Course: 2, exam day: 4----Course: 12, exam day: 22----Course: 34, exam day: 1----Course: 107, exam day: 14----Course: 134, exam day: 8----Course: 162, exam day: 15----
+Student: 385
+Course: 98, exam day: 25----Course: 151, exam day: 22----Course: 157, exam day: 6----Course: 180, exam day: 9----
+Student: 386
+Course: 89, exam day: 10----Course: 98, exam day: 25----Course: 100, exam day: 18----
+Student: 387
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 68, exam day: 16----Course: 73, exam day: 7----Course: 75, exam day: 25----
+Student: 388
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 156, exam day: 25----Course: 170, exam day: 9----
+Student: 389
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 157, exam day: 6----
+Student: 390
+Course: 66, exam day: 9----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 142, exam day: 23----Course: 145, exam day: 4----Course: 158, exam day: 7----
+Student: 391
+Course: 11, exam day: 23----Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 65, exam day: 26----Course: 129, exam day: 18----
+Student: 392
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 27, exam day: 10----Course: 34, exam day: 1----Course: 78, exam day: 18----Course: 82, exam day: 13----Course: 122, exam day: 16----Course: 161, exam day: 5----
+Student: 393
+Course: 1, exam day: 2----Course: 11, exam day: 23----Course: 16, exam day: 25----Course: 34, exam day: 1----Course: 62, exam day: 7----Course: 69, exam day: 10----
+Student: 394
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 77, exam day: 10----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----
+Student: 395
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 145, exam day: 4----
+Student: 396
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 156, exam day: 25----
+Student: 397
+Course: 33, exam day: 1----Course: 105, exam day: 15----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 169, exam day: 10----Course: 170, exam day: 9----Course: 175, exam day: 21----
+Student: 398
+Course: 37, exam day: 1----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 148, exam day: 26----Course: 158, exam day: 7----
+Student: 399
+Course: 1, exam day: 2----Course: 12, exam day: 22----Course: 18, exam day: 13----Course: 33, exam day: 1----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 126, exam day: 15----Course: 137, exam day: 3----
+Student: 400
+Course: 1, exam day: 2----Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 175, exam day: 21----
+Student: 401
+Course: 42, exam day: 1----Course: 90, exam day: 11----Course: 99, exam day: 24----Course: 100, exam day: 18----
+Student: 402
+Course: 4, exam day: 5----Course: 37, exam day: 1----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 101, exam day: 19----Course: 118, exam day: 14----Course: 139, exam day: 7----
+Student: 403
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 68, exam day: 16----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 404
+Course: 4, exam day: 5----Course: 37, exam day: 1----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 158, exam day: 7----
+Student: 405
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 150, exam day: 13----
+Student: 406
+Course: 11, exam day: 23----Course: 14, exam day: 8----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 407
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 408
+Course: 20, exam day: 16----Course: 42, exam day: 1----Course: 44, exam day: 22----Course: 74, exam day: 6----Course: 82, exam day: 13----Course: 86, exam day: 24----
+Student: 409
+Course: 66, exam day: 9----Course: 142, exam day: 23----Course: 148, exam day: 26----Course: 158, exam day: 7----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 410
+Course: 27, exam day: 10----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 140, exam day: 13----Course: 142, exam day: 23----Course: 147, exam day: 18----
+Student: 411
+Course: 43, exam day: 2----Course: 51, exam day: 26----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 178, exam day: 11----
+Student: 412
+Course: 40, exam day: 2----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 413
+Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 142, exam day: 23----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 414
+Course: 12, exam day: 22----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 135, exam day: 18----Course: 155, exam day: 6----Course: 162, exam day: 15----
+Student: 415
+Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 416
+Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 106, exam day: 4----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 417
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 418
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 95, exam day: 22----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 419
+Course: 11, exam day: 23----Course: 37, exam day: 1----Course: 77, exam day: 10----Course: 86, exam day: 24----Course: 96, exam day: 18----Course: 148, exam day: 26----
+Student: 420
+Course: 8, exam day: 19----Course: 35, exam day: 1----Course: 117, exam day: 9----Course: 147, exam day: 18----Course: 172, exam day: 21----Course: 178, exam day: 11----
+Student: 421
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 52, exam day: 11----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 422
+Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 95, exam day: 22----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 169, exam day: 10----Course: 175, exam day: 21----
+Student: 423
+Course: 73, exam day: 7----Course: 89, exam day: 10----Course: 118, exam day: 14----
+Student: 424
+Course: 50, exam day: 14----Course: 51, exam day: 26----Course: 112, exam day: 12----Course: 117, exam day: 9----Course: 175, exam day: 21----Course: 178, exam day: 11----
+Student: 425
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 56, exam day: 16----Course: 86, exam day: 24----Course: 102, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 163, exam day: 21----
+Student: 426
+Course: 4, exam day: 5----Course: 9, exam day: 25----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 427
+Course: 9, exam day: 25----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 428
+Course: 9, exam day: 25----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 124, exam day: 20----Course: 158, exam day: 7----
+Student: 429
+Course: 1, exam day: 2----Course: 33, exam day: 1----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 137, exam day: 3----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 430
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 431
+Course: 15, exam day: 19----Course: 22, exam day: 2----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 58, exam day: 9----Course: 136, exam day: 11----Course: 162, exam day: 15----
+Student: 432
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 78, exam day: 18----Course: 113, exam day: 26----Course: 137, exam day: 3----Course: 155, exam day: 6----
+Student: 433
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 434
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 124, exam day: 20----Course: 158, exam day: 7----
+Student: 435
+Course: 11, exam day: 23----Course: 22, exam day: 2----Course: 32, exam day: 1----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 168, exam day: 14----
+Student: 436
+Course: 43, exam day: 2----Course: 46, exam day: 1----Course: 98, exam day: 25----Course: 101, exam day: 19----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 437
+Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 438
+Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 69, exam day: 10----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 175, exam day: 21----
+Student: 439
+Course: 9, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 440
+Course: 3, exam day: 9----Course: 75, exam day: 25----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 441
+Course: 33, exam day: 1----Course: 64, exam day: 23----Course: 105, exam day: 15----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 169, exam day: 10----Course: 175, exam day: 21----
+Student: 442
+Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 128, exam day: 11----Course: 148, exam day: 26----Course: 171, exam day: 16----
+Student: 443
+Course: 2, exam day: 4----Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 155, exam day: 6----
+Student: 444
+Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 73, exam day: 7----Course: 74, exam day: 6----Course: 127, exam day: 25----
+Student: 445
+Course: 1, exam day: 2----Course: 8, exam day: 19----Course: 13, exam day: 23----Course: 20, exam day: 16----Course: 39, exam day: 3----Course: 117, exam day: 9----Course: 128, exam day: 11----Course: 138, exam day: 4----
+Student: 446
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 176, exam day: 15----
+Student: 447
+Course: 39, exam day: 3----Course: 76, exam day: 18----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 448
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 83, exam day: 24----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 175, exam day: 21----
+Student: 449
+Course: 5, exam day: 10----Course: 13, exam day: 23----Course: 18, exam day: 13----Course: 43, exam day: 2----Course: 90, exam day: 11----Course: 116, exam day: 19----
+Student: 450
+Course: 40, exam day: 2----Course: 145, exam day: 4----
+Student: 451
+Course: 9, exam day: 25----Course: 52, exam day: 11----Course: 102, exam day: 14----Course: 179, exam day: 3----
+Student: 452
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 83, exam day: 24----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 134, exam day: 8----Course: 156, exam day: 25----
+Student: 453
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 122, exam day: 16----Course: 126, exam day: 15----Course: 134, exam day: 8----Course: 161, exam day: 5----
+Student: 454
+Course: 37, exam day: 1----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 148, exam day: 26----Course: 158, exam day: 7----Course: 171, exam day: 16----
+Student: 455
+Course: 40, exam day: 2----Course: 96, exam day: 18----Course: 116, exam day: 19----
+Student: 456
+Course: 4, exam day: 5----Course: 8, exam day: 19----Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 139, exam day: 7----
+Student: 457
+Course: 88, exam day: 26----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 151, exam day: 22----
+Student: 458
+Course: 37, exam day: 1----Course: 119, exam day: 20----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 171, exam day: 16----Course: 172, exam day: 21----Course: 177, exam day: 5----
+Student: 459
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 136, exam day: 11----Course: 155, exam day: 6----
+Student: 460
+Course: 9, exam day: 25----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 66, exam day: 9----Course: 74, exam day: 6----Course: 119, exam day: 20----Course: 142, exam day: 23----
+Student: 461
+Course: 9, exam day: 25----Course: 19, exam day: 26----Course: 43, exam day: 2----Course: 61, exam day: 11----Course: 74, exam day: 6----Course: 119, exam day: 20----Course: 165, exam day: 15----
+Student: 462
+Course: 5, exam day: 10----Course: 11, exam day: 23----Course: 37, exam day: 1----Course: 85, exam day: 6----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 163, exam day: 21----
+Student: 463
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 123, exam day: 9----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 464
+Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 124, exam day: 20----
+Student: 465
+Course: 13, exam day: 23----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 50, exam day: 14----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 156, exam day: 25----
+Student: 466
+Course: 3, exam day: 9----Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 90, exam day: 11----Course: 116, exam day: 19----
+Student: 467
+Course: 3, exam day: 9----Course: 18, exam day: 13----
+Student: 468
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 77, exam day: 10----Course: 92, exam day: 26----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 177, exam day: 5----
+Student: 469
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 86, exam day: 24----Course: 115, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 175, exam day: 21----
+Student: 470
+Course: 37, exam day: 1----Course: 53, exam day: 12----Course: 85, exam day: 6----Course: 119, exam day: 20----Course: 140, exam day: 13----Course: 147, exam day: 18----Course: 178, exam day: 11----
+Student: 471
+Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 169, exam day: 10----Course: 170, exam day: 9----
+Student: 472
+Course: 65, exam day: 26----Course: 98, exam day: 25----Course: 150, exam day: 13----
+Student: 473
+Course: 33, exam day: 1----Course: 51, exam day: 26----Course: 69, exam day: 10----Course: 115, exam day: 12----Course: 129, exam day: 18----Course: 155, exam day: 6----Course: 161, exam day: 5----Course: 176, exam day: 15----
+Student: 474
+Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 112, exam day: 12----Course: 117, exam day: 9----Course: 156, exam day: 25----Course: 178, exam day: 11----
+Student: 475
+Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 57, exam day: 7----Course: 113, exam day: 26----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 476
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 139, exam day: 7----
+Student: 477
+Course: 10, exam day: 21----Course: 14, exam day: 8----Course: 43, exam day: 2----Course: 61, exam day: 11----Course: 67, exam day: 24----Course: 171, exam day: 16----
+Student: 478
+Course: 20, exam day: 16----Course: 42, exam day: 1----Course: 66, exam day: 9----Course: 75, exam day: 25----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 164, exam day: 13----
+Student: 479
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 77, exam day: 10----Course: 88, exam day: 26----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 123, exam day: 9----
+Student: 480
+Course: 27, exam day: 10----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 481
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 148, exam day: 26----
+Student: 482
+Course: 40, exam day: 2----Course: 54, exam day: 7----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 483
+Course: 40, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 151, exam day: 22----
+Student: 484
+Course: 45, exam day: 1----Course: 68, exam day: 16----Course: 73, exam day: 7----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----
+Student: 485
+Course: 10, exam day: 21----Course: 42, exam day: 1----Course: 66, exam day: 9----Course: 68, exam day: 16----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 486
+Course: 13, exam day: 23----Course: 40, exam day: 2----Course: 77, exam day: 10----Course: 86, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 141, exam day: 8----Course: 147, exam day: 18----
+Student: 487
+Course: 2, exam day: 4----Course: 33, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----
+Student: 488
+Course: 24, exam day: 6----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 50, exam day: 14----Course: 56, exam day: 16----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 489
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 68, exam day: 16----Course: 75, exam day: 25----
+Student: 490
+Course: 157, exam day: 6----
+Student: 491
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 164, exam day: 13----
+Student: 492
+Course: 3, exam day: 9----Course: 5, exam day: 10----Course: 20, exam day: 16----Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 493
+Course: 1, exam day: 2----Course: 27, exam day: 10----Course: 39, exam day: 3----Course: 82, exam day: 13----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 144, exam day: 19----Course: 148, exam day: 26----
+Student: 494
+Course: 9, exam day: 25----Course: 47, exam day: 26----Course: 100, exam day: 18----
+Student: 495
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 75, exam day: 25----Course: 102, exam day: 14----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 496
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 55, exam day: 6----Course: 86, exam day: 24----Course: 119, exam day: 20----Course: 163, exam day: 21----
+Student: 497
+Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 62, exam day: 7----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 168, exam day: 14----
+Student: 498
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 145, exam day: 4----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 499
+Course: 7, exam day: 5----Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 117, exam day: 9----Course: 144, exam day: 19----Course: 147, exam day: 18----
+Student: 500
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 180, exam day: 9----
+Student: 501
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 65, exam day: 26----Course: 145, exam day: 4----Course: 165, exam day: 15----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 502
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 68, exam day: 16----Course: 73, exam day: 7----
+Student: 503
+Course: 40, exam day: 2----Course: 77, exam day: 10----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 177, exam day: 5----
+Student: 504
+Course: 14, exam day: 8----Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 45, exam day: 1----Course: 74, exam day: 6----Course: 118, exam day: 14----Course: 149, exam day: 25----Course: 163, exam day: 21----
+Student: 505
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 156, exam day: 25----Course: 161, exam day: 5----
+Student: 506
+Course: 3, exam day: 9----Course: 39, exam day: 3----Course: 89, exam day: 10----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 127, exam day: 25----Course: 158, exam day: 7----
+Student: 507
+Course: 43, exam day: 2----Course: 100, exam day: 18----Course: 124, exam day: 20----Course: 151, exam day: 22----Course: 157, exam day: 6----Course: 165, exam day: 15----
+Student: 508
+Course: 13, exam day: 23----Course: 39, exam day: 3----Course: 67, exam day: 24----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 143, exam day: 9----Course: 149, exam day: 25----Course: 171, exam day: 16----
+Student: 509
+Course: 66, exam day: 9----Course: 67, exam day: 24----Course: 147, exam day: 18----Course: 171, exam day: 16----
+Student: 510
+Course: 34, exam day: 1----Course: 54, exam day: 7----Course: 69, exam day: 10----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 161, exam day: 5----
+Student: 511
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 512
+Course: 89, exam day: 10----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 513
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 514
+Course: 2, exam day: 4----Course: 12, exam day: 22----Course: 18, exam day: 13----Course: 34, exam day: 1----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 169, exam day: 10----Course: 170, exam day: 9----
+Student: 515
+Course: 43, exam day: 2----Course: 87, exam day: 6----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 143, exam day: 9----Course: 151, exam day: 22----
+Student: 516
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 157, exam day: 6----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 517
+Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 54, exam day: 7----Course: 113, exam day: 26----Course: 120, exam day: 14----Course: 135, exam day: 18----Course: 141, exam day: 8----Course: 155, exam day: 6----
+Student: 518
+Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 179, exam day: 3----
+Student: 519
+Course: 40, exam day: 2----Course: 90, exam day: 11----Course: 101, exam day: 19----Course: 145, exam day: 4----Course: 150, exam day: 13----Course: 180, exam day: 9----
+Student: 520
+Course: 10, exam day: 21----Course: 43, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 150, exam day: 13----
+Student: 521
+Course: 33, exam day: 1----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 143, exam day: 9----Course: 156, exam day: 25----
+Student: 522
+Course: 9, exam day: 25----Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 523
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 149, exam day: 25----Course: 155, exam day: 6----Course: 168, exam day: 14----
+Student: 524
+Course: 37, exam day: 1----Course: 86, exam day: 24----Course: 106, exam day: 4----Course: 114, exam day: 12----Course: 143, exam day: 9----Course: 149, exam day: 25----Course: 155, exam day: 6----Course: 162, exam day: 15----
+Student: 525
+Course: 27, exam day: 10----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 82, exam day: 13----Course: 95, exam day: 22----Course: 134, exam day: 8----Course: 162, exam day: 15----
+Student: 526
+Course: 40, exam day: 2----Course: 47, exam day: 26----Course: 75, exam day: 25----Course: 89, exam day: 10----Course: 90, exam day: 11----Course: 146, exam day: 8----
+Student: 527
+Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 83, exam day: 24----Course: 109, exam day: 26----Course: 125, exam day: 7----Course: 153, exam day: 13----Course: 173, exam day: 11----Course: 176, exam day: 15----
+Student: 528
+Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 95, exam day: 22----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 170, exam day: 9----
+Student: 529
+Course: 75, exam day: 25----Course: 102, exam day: 14----Course: 142, exam day: 23----Course: 145, exam day: 4----Course: 151, exam day: 22----Course: 165, exam day: 15----
+Student: 530
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 162, exam day: 15----
+Student: 531
+Course: 118, exam day: 14----Course: 142, exam day: 23----Course: 145, exam day: 4----
+Student: 532
+Course: 8, exam day: 19----Course: 13, exam day: 23----Course: 16, exam day: 25----Course: 18, exam day: 13----Course: 39, exam day: 3----Course: 63, exam day: 15----Course: 76, exam day: 18----Course: 178, exam day: 11----
+Student: 533
+Course: 37, exam day: 1----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 104, exam day: 11----Course: 106, exam day: 4----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 534
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 171, exam day: 16----Course: 172, exam day: 21----
+Student: 535
+Course: 43, exam day: 2----Course: 88, exam day: 26----Course: 142, exam day: 23----Course: 146, exam day: 8----Course: 181, exam day: 16----
+Student: 536
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 537
+Course: 42, exam day: 1----Course: 68, exam day: 16----Course: 100, exam day: 18----Course: 145, exam day: 4----
+Student: 538
+Course: 13, exam day: 23----Course: 22, exam day: 2----Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 113, exam day: 26----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 539
+Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 540
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 128, exam day: 11----Course: 148, exam day: 26----Course: 177, exam day: 5----
+Student: 541
+Course: 7, exam day: 5----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 148, exam day: 26----
+Student: 542
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 78, exam day: 18----Course: 106, exam day: 4----Course: 119, exam day: 20----Course: 139, exam day: 7----Course: 149, exam day: 25----Course: 163, exam day: 21----
+Student: 543
+Course: 27, exam day: 10----Course: 38, exam day: 3----Course: 63, exam day: 15----Course: 116, exam day: 19----Course: 139, exam day: 7----Course: 178, exam day: 11----
+Student: 544
+Course: 11, exam day: 23----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 156, exam day: 25----
+Student: 545
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 168, exam day: 14----
+Student: 546
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 89, exam day: 10----Course: 90, exam day: 11----Course: 97, exam day: 19----Course: 102, exam day: 14----Course: 103, exam day: 20----
+Student: 547
+Course: 2, exam day: 4----Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 83, exam day: 24----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 143, exam day: 9----
+Student: 548
+Course: 11, exam day: 23----Course: 16, exam day: 25----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 62, exam day: 7----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 168, exam day: 14----
+Student: 549
+Course: 12, exam day: 22----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 135, exam day: 18----Course: 170, exam day: 9----Course: 175, exam day: 21----
+Student: 550
+Course: 13, exam day: 23----Course: 40, exam day: 2----Course: 54, exam day: 7----Course: 75, exam day: 25----Course: 76, exam day: 18----Course: 103, exam day: 20----Course: 141, exam day: 8----Course: 178, exam day: 11----
+Student: 551
+Course: 53, exam day: 12----Course: 69, exam day: 10----Course: 142, exam day: 23----Course: 148, exam day: 26----
+Student: 552
+Course: 41, exam day: 1----Course: 52, exam day: 11----Course: 124, exam day: 20----
+Student: 553
+Course: 37, exam day: 1----Course: 54, exam day: 7----Course: 75, exam day: 25----Course: 119, exam day: 20----Course: 148, exam day: 26----Course: 163, exam day: 21----
+Student: 554
+Course: 10, exam day: 21----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 74, exam day: 6----Course: 88, exam day: 26----Course: 102, exam day: 14----
+Student: 555
+Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 556
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 103, exam day: 20----Course: 142, exam day: 23----
+Student: 557
+Course: 37, exam day: 1----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 106, exam day: 4----Course: 140, exam day: 13----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 558
+Course: 33, exam day: 1----Course: 56, exam day: 16----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 129, exam day: 18----Course: 143, exam day: 9----Course: 156, exam day: 25----Course: 175, exam day: 21----
+Student: 559
+Course: 5, exam day: 10----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 112, exam day: 12----Course: 117, exam day: 9----Course: 135, exam day: 18----Course: 144, exam day: 19----Course: 175, exam day: 21----
+Student: 560
+Course: 48, exam day: 23----Course: 61, exam day: 11----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 164, exam day: 13----Course: 180, exam day: 9----
+Student: 561
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 149, exam day: 25----
+Student: 562
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 83, exam day: 24----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 175, exam day: 21----
+Student: 563
+Course: 40, exam day: 2----Course: 88, exam day: 26----Course: 102, exam day: 14----
+Student: 564
+Course: 5, exam day: 10----Course: 10, exam day: 21----Course: 38, exam day: 3----Course: 67, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 177, exam day: 5----
+Student: 565
+Course: 8, exam day: 19----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 48, exam day: 23----Course: 53, exam day: 12----Course: 76, exam day: 18----Course: 139, exam day: 7----
+Student: 566
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 78, exam day: 18----Course: 83, exam day: 24----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 156, exam day: 25----
+Student: 567
+Course: 13, exam day: 23----Course: 33, exam day: 1----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 135, exam day: 18----Course: 156, exam day: 25----
+Student: 568
+Course: 14, exam day: 8----Course: 21, exam day: 7----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 96, exam day: 18----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 569
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 145, exam day: 4----
+Student: 570
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 74, exam day: 6----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 141, exam day: 8----Course: 147, exam day: 18----
+Student: 571
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 52, exam day: 11----Course: 146, exam day: 8----
+Student: 572
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 138, exam day: 4----Course: 165, exam day: 15----
+Student: 573
+Course: 88, exam day: 26----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 574
+Course: 19, exam day: 26----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 117, exam day: 9----Course: 138, exam day: 4----
+Student: 575
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----
+Student: 576
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 51, exam day: 26----Course: 57, exam day: 7----Course: 169, exam day: 10----Course: 176, exam day: 15----
+Student: 577
+Course: 3, exam day: 9----Course: 74, exam day: 6----Course: 100, exam day: 18----
+Student: 578
+Course: 39, exam day: 3----Course: 75, exam day: 25----Course: 87, exam day: 6----Course: 96, exam day: 18----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 579
+Course: 4, exam day: 5----Course: 43, exam day: 2----Course: 45, exam day: 1----Course: 90, exam day: 11----Course: 93, exam day: 15----Course: 97, exam day: 19----Course: 102, exam day: 14----
+Student: 580
+Course: 39, exam day: 3----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 93, exam day: 15----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 139, exam day: 7----Course: 149, exam day: 25----
+Student: 581
+Course: 12, exam day: 22----Course: 34, exam day: 1----Course: 63, exam day: 15----Course: 82, exam day: 13----Course: 92, exam day: 26----Course: 114, exam day: 12----Course: 155, exam day: 6----Course: 170, exam day: 9----
+Student: 582
+Course: 1, exam day: 2----Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----
+Student: 583
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 94, exam day: 15----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 144, exam day: 19----Course: 163, exam day: 21----
+Student: 584
+Course: 40, exam day: 2----Course: 102, exam day: 14----Course: 145, exam day: 4----
+Student: 585
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 93, exam day: 15----Course: 118, exam day: 14----Course: 149, exam day: 25----Course: 178, exam day: 11----
+Student: 586
+Course: 40, exam day: 2----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 118, exam day: 14----Course: 123, exam day: 9----Course: 140, exam day: 13----Course: 149, exam day: 25----
+Student: 587
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 102, exam day: 14----Course: 149, exam day: 25----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 588
+Course: 9, exam day: 25----Course: 42, exam day: 1----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 158, exam day: 7----
+Student: 589
+Course: 11, exam day: 23----Course: 36, exam day: 1----Course: 67, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 125, exam day: 7----Course: 141, exam day: 8----Course: 156, exam day: 25----
+Student: 590
+Course: 4, exam day: 5----Course: 45, exam day: 1----Course: 53, exam day: 12----Course: 73, exam day: 7----Course: 74, exam day: 6----Course: 102, exam day: 14----
+Student: 591
+Course: 10, exam day: 21----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 145, exam day: 4----Course: 150, exam day: 13----
+Student: 592
+Course: 10, exam day: 21----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 67, exam day: 24----Course: 75, exam day: 25----Course: 118, exam day: 14----Course: 139, exam day: 7----
+Student: 593
+Course: 39, exam day: 3----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 129, exam day: 18----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 177, exam day: 5----
+Student: 594
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 92, exam day: 26----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 170, exam day: 9----Course: 176, exam day: 15----
+Student: 595
+Course: 42, exam day: 1----Course: 98, exam day: 25----Course: 145, exam day: 4----
+Student: 596
+Course: 33, exam day: 1----Course: 84, exam day: 17----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 135, exam day: 18----Course: 149, exam day: 25----Course: 155, exam day: 6----Course: 176, exam day: 15----
+Student: 597
+Course: 7, exam day: 5----Course: 14, exam day: 8----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 144, exam day: 19----Course: 147, exam day: 18----Course: 155, exam day: 6----
+Student: 598
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 144, exam day: 19----Course: 155, exam day: 6----Course: 170, exam day: 9----
+Student: 599
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 600
+Course: 34, exam day: 1----Course: 67, exam day: 24----Course: 77, exam day: 10----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 139, exam day: 7----Course: 155, exam day: 6----Course: 162, exam day: 15----
+Student: 601
+Course: 40, exam day: 2----Course: 52, exam day: 11----Course: 75, exam day: 25----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 602
+Course: 13, exam day: 23----Course: 53, exam day: 12----Course: 55, exam day: 6----Course: 129, exam day: 18----
+Student: 603
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 163, exam day: 21----Course: 177, exam day: 5----
+Student: 604
+Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 102, exam day: 14----
+Student: 605
+Course: 4, exam day: 5----Course: 8, exam day: 19----Course: 14, exam day: 8----Course: 18, exam day: 13----
+Student: 606
+Course: 1, exam day: 2----Course: 12, exam day: 22----Course: 18, exam day: 13----Course: 27, exam day: 10----Course: 34, exam day: 1----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 155, exam day: 6----
+Student: 607
+Course: 5, exam day: 10----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 86, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 148, exam day: 26----
+Student: 608
+Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 609
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 88, exam day: 26----Course: 100, exam day: 18----Course: 165, exam day: 15----
+Student: 610
+Course: 2, exam day: 4----Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 87, exam day: 6----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 134, exam day: 8----
+Student: 611
+Course: 37, exam day: 1----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 171, exam day: 16----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 612
+Course: 12, exam day: 22----Course: 15, exam day: 19----Course: 16, exam day: 25----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 92, exam day: 26----Course: 136, exam day: 11----
+Student: 613
+Course: 54, exam day: 7----Course: 74, exam day: 6----Course: 92, exam day: 26----Course: 102, exam day: 14----
+Student: 614
+Course: 42, exam day: 1----Course: 145, exam day: 4----
+Student: 615
+Course: 3, exam day: 9----Course: 43, exam day: 2----Course: 52, exam day: 11----Course: 100, exam day: 18----Course: 181, exam day: 16----
+Student: 616
+Course: 12, exam day: 22----Course: 13, exam day: 23----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 135, exam day: 18----
+Student: 617
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 66, exam day: 9----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 148, exam day: 26----Course: 172, exam day: 21----
+Student: 618
+Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 76, exam day: 18----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 140, exam day: 13----Course: 149, exam day: 25----Course: 163, exam day: 21----
+Student: 619
+Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 67, exam day: 24----Course: 69, exam day: 10----Course: 78, exam day: 18----Course: 105, exam day: 15----Course: 144, exam day: 19----
+Student: 620
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 68, exam day: 16----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 142, exam day: 23----Course: 149, exam day: 25----
+Student: 621
+Course: 3, exam day: 9----Course: 42, exam day: 1----Course: 74, exam day: 6----
+Student: 622
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 66, exam day: 9----Course: 76, exam day: 18----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 171, exam day: 16----
+Student: 623
+Course: 33, exam day: 1----Course: 64, exam day: 23----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 176, exam day: 15----
+Student: 624
+Course: 9, exam day: 25----Course: 40, exam day: 2----Course: 100, exam day: 18----
+Student: 625
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 61, exam day: 11----Course: 75, exam day: 25----Course: 145, exam day: 4----Course: 180, exam day: 9----
+Student: 626
+Course: 19, exam day: 26----Course: 42, exam day: 1----Course: 44, exam day: 22----Course: 74, exam day: 6----Course: 165, exam day: 15----Course: 181, exam day: 16----
+Student: 627
+Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 95, exam day: 22----Course: 115, exam day: 12----Course: 134, exam day: 8----
+Student: 628
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 158, exam day: 7----
+Student: 629
+Course: 13, exam day: 23----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 139, exam day: 7----Course: 156, exam day: 25----Course: 178, exam day: 11----
+Student: 630
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 170, exam day: 9----Course: 176, exam day: 15----
+Student: 631
+Course: 40, exam day: 2----Course: 90, exam day: 11----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 632
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 122, exam day: 16----Course: 126, exam day: 15----Course: 136, exam day: 11----
+Student: 633
+Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 155, exam day: 6----Course: 158, exam day: 7----
+Student: 634
+Course: 1, exam day: 2----Course: 4, exam day: 5----Course: 8, exam day: 19----Course: 10, exam day: 21----Course: 18, exam day: 13----Course: 114, exam day: 12----Course: 117, exam day: 9----
+Student: 635
+Course: 37, exam day: 1----Course: 75, exam day: 25----Course: 76, exam day: 18----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 177, exam day: 5----Course: 180, exam day: 9----Course: 181, exam day: 16----
+Student: 636
+Course: 43, exam day: 2----Course: 157, exam day: 6----
+Student: 637
+Course: 40, exam day: 2----Course: 75, exam day: 25----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 638
+Course: 3, exam day: 9----Course: 4, exam day: 5----Course: 43, exam day: 2----Course: 98, exam day: 25----Course: 150, exam day: 13----Course: 151, exam day: 22----Course: 157, exam day: 6----Course: 158, exam day: 7----
+Student: 639
+Course: 40, exam day: 2----Course: 88, exam day: 26----Course: 98, exam day: 25----Course: 157, exam day: 6----
+Student: 640
+Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 68, exam day: 16----Course: 142, exam day: 23----
+Student: 641
+Course: 33, exam day: 1----Course: 51, exam day: 26----Course: 82, exam day: 13----Course: 95, exam day: 22----Course: 115, exam day: 12----Course: 126, exam day: 15----Course: 136, exam day: 11----Course: 175, exam day: 21----
+Student: 642
+Course: 20, exam day: 16----Course: 43, exam day: 2----Course: 74, exam day: 6----Course: 88, exam day: 26----Course: 99, exam day: 24----Course: 100, exam day: 18----
+Student: 643
+Course: 2, exam day: 4----Course: 21, exam day: 7----Course: 22, exam day: 2----Course: 34, exam day: 1----Course: 50, exam day: 14----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 162, exam day: 15----
+Student: 644
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 88, exam day: 26----Course: 142, exam day: 23----Course: 165, exam day: 15----
+Student: 645
+Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 67, exam day: 24----Course: 116, exam day: 19----Course: 147, exam day: 18----Course: 171, exam day: 16----
+Student: 646
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 647
+Course: 4, exam day: 5----Course: 43, exam day: 2----Course: 66, exam day: 9----Course: 102, exam day: 14----Course: 124, exam day: 20----Course: 142, exam day: 23----
+Student: 648
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 85, exam day: 6----Course: 90, exam day: 11----Course: 97, exam day: 19----Course: 181, exam day: 16----
+Student: 649
+Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 74, exam day: 6----Course: 142, exam day: 23----Course: 165, exam day: 15----
+Student: 650
+Course: 37, exam day: 1----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 138, exam day: 4----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 651
+Course: 48, exam day: 23----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 157, exam day: 6----Course: 164, exam day: 13----
+Student: 652
+Course: 5, exam day: 10----Course: 11, exam day: 23----Course: 38, exam day: 3----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 125, exam day: 7----Course: 141, exam day: 8----Course: 156, exam day: 25----
+Student: 653
+Course: 12, exam day: 22----Course: 38, exam day: 3----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 177, exam day: 5----
+Student: 654
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 655
+Course: 2, exam day: 4----Course: 11, exam day: 23----Course: 16, exam day: 25----Course: 34, exam day: 1----Course: 82, exam day: 13----
+Student: 656
+Course: 100, exam day: 18----Course: 101, exam day: 19----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 151, exam day: 22----Course: 157, exam day: 6----Course: 158, exam day: 7----
+Student: 657
+Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 50, exam day: 14----Course: 51, exam day: 26----Course: 56, exam day: 16----Course: 178, exam day: 11----
+Student: 658
+Course: 3, exam day: 9----Course: 13, exam day: 23----Course: 118, exam day: 14----
+Student: 659
+Course: 12, exam day: 22----Course: 13, exam day: 23----Course: 17, exam day: 24----Course: 36, exam day: 1----Course: 134, exam day: 8----Course: 140, exam day: 13----Course: 161, exam day: 5----
+Student: 660
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 178, exam day: 11----
+Student: 661
+Course: 89, exam day: 10----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 662
+Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 663
+Course: 3, exam day: 9----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 179, exam day: 3----
+Student: 664
+Course: 73, exam day: 7----Course: 88, exam day: 26----Course: 89, exam day: 10----Course: 164, exam day: 13----
+Student: 665
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 142, exam day: 23----Course: 145, exam day: 4----
+Student: 666
+Course: 11, exam day: 23----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 69, exam day: 10----Course: 76, exam day: 18----Course: 113, exam day: 26----Course: 159, exam day: 17----Course: 178, exam day: 11----
+Student: 667
+Course: 8, exam day: 19----Course: 20, exam day: 16----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 123, exam day: 9----Course: 141, exam day: 8----
+Student: 668
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 47, exam day: 26----Course: 75, exam day: 25----Course: 164, exam day: 13----Course: 180, exam day: 9----
+Student: 669
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 670
+Course: 3, exam day: 9----Course: 39, exam day: 3----Course: 89, exam day: 10----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 158, exam day: 7----
+Student: 671
+Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 672
+Course: 43, exam day: 2----Course: 101, exam day: 19----Course: 151, exam day: 22----
+Student: 673
+Course: 18, exam day: 13----Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 83, exam day: 24----Course: 113, exam day: 26----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 175, exam day: 21----
+Student: 674
+Course: 13, exam day: 23----Course: 34, exam day: 1----Course: 76, exam day: 18----Course: 82, exam day: 13----Course: 113, exam day: 26----Course: 134, exam day: 8----Course: 154, exam day: 12----Course: 162, exam day: 15----
+Student: 675
+Course: 3, exam day: 9----Course: 5, exam day: 10----Course: 37, exam day: 1----Course: 85, exam day: 6----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 140, exam day: 13----
+Student: 676
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 20, exam day: 16----Course: 37, exam day: 1----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 138, exam day: 4----
+Student: 677
+Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 151, exam day: 22----Course: 157, exam day: 6----Course: 180, exam day: 9----
+Student: 678
+Course: 1, exam day: 2----Course: 34, exam day: 1----Course: 51, exam day: 26----Course: 156, exam day: 25----Course: 175, exam day: 21----Course: 178, exam day: 11----
+Student: 679
+Course: 47, exam day: 26----Course: 90, exam day: 11----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 145, exam day: 4----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 680
+Course: 2, exam day: 4----Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 84, exam day: 17----Course: 95, exam day: 22----Course: 114, exam day: 12----Course: 122, exam day: 16----Course: 156, exam day: 25----
+Student: 681
+Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 155, exam day: 6----
+Student: 682
+Course: 37, exam day: 1----Course: 66, exam day: 9----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 141, exam day: 8----Course: 148, exam day: 26----Course: 171, exam day: 16----Course: 177, exam day: 5----
+Student: 683
+Course: 35, exam day: 1----Course: 50, exam day: 14----Course: 51, exam day: 26----Course: 57, exam day: 7----Course: 129, exam day: 18----
+Student: 684
+Course: 12, exam day: 22----Course: 33, exam day: 1----Course: 63, exam day: 15----Course: 115, exam day: 12----Course: 125, exam day: 7----Course: 137, exam day: 3----Course: 155, exam day: 6----Course: 169, exam day: 10----
+Student: 685
+Course: 13, exam day: 23----Course: 76, exam day: 18----
+Student: 686
+Course: 32, exam day: 1----Course: 112, exam day: 12----Course: 117, exam day: 9----Course: 161, exam day: 5----Course: 168, exam day: 14----Course: 172, exam day: 21----
+Student: 687
+Course: 43, exam day: 2----Course: 88, exam day: 26----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 688
+Course: 11, exam day: 23----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 156, exam day: 25----
+Student: 689
+Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 105, exam day: 15----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 690
+Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 122, exam day: 16----Course: 136, exam day: 11----Course: 155, exam day: 6----
+Student: 691
+Course: 14, exam day: 8----Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 86, exam day: 24----Course: 114, exam day: 12----Course: 129, exam day: 18----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 692
+Course: 51, exam day: 26----Course: 112, exam day: 12----Course: 163, exam day: 21----Course: 179, exam day: 3----
+Student: 693
+Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 102, exam day: 14----
+Student: 694
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 100, exam day: 18----
+Student: 695
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 696
+Course: 3, exam day: 9----Course: 74, exam day: 6----Course: 100, exam day: 18----
+Student: 697
+Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 68, exam day: 16----
+Student: 698
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 150, exam day: 13----
+Student: 699
+Course: 13, exam day: 23----Course: 37, exam day: 1----Course: 55, exam day: 6----
+Student: 700
+Course: 2, exam day: 4----Course: 8, exam day: 19----Course: 37, exam day: 1----Course: 118, exam day: 14----Course: 139, exam day: 7----Course: 149, exam day: 25----
+Student: 701
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 89, exam day: 10----Course: 90, exam day: 11----
+Student: 702
+Course: 40, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 703
+Course: 19, exam day: 26----Course: 43, exam day: 2----Course: 57, exam day: 7----Course: 89, exam day: 10----Course: 90, exam day: 11----Course: 142, exam day: 23----
+Student: 704
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 88, exam day: 26----Course: 164, exam day: 13----
+Student: 705
+Course: 43, exam day: 2----Course: 88, exam day: 26----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 158, exam day: 7----Course: 180, exam day: 9----
+Student: 706
+Course: 43, exam day: 2----Course: 73, exam day: 7----Course: 90, exam day: 11----Course: 102, exam day: 14----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 707
+Course: 10, exam day: 21----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 74, exam day: 6----Course: 145, exam day: 4----
+Student: 708
+Course: 3, exam day: 9----Course: 41, exam day: 1----Course: 118, exam day: 14----
+Student: 709
+Course: 3, exam day: 9----Course: 100, exam day: 18----Course: 157, exam day: 6----
+Student: 710
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 711
+Course: 40, exam day: 2----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 150, exam day: 13----Course: 158, exam day: 7----Course: 181, exam day: 16----
+Student: 712
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 102, exam day: 14----Course: 179, exam day: 3----
+Student: 713
+Course: 52, exam day: 11----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 714
+Course: 9, exam day: 25----Course: 19, exam day: 26----Course: 41, exam day: 1----Course: 61, exam day: 11----
+Student: 715
+Course: 100, exam day: 18----Course: 157, exam day: 6----
+Student: 716
+Course: 9, exam day: 25----Course: 20, exam day: 16----Course: 43, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 717
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 148, exam day: 26----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 718
+Course: 65, exam day: 26----Course: 74, exam day: 6----Course: 100, exam day: 18----
+Student: 719
+Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 145, exam day: 4----
+Student: 720
+Course: 40, exam day: 2----Course: 61, exam day: 11----Course: 68, exam day: 16----Course: 145, exam day: 4----
+Student: 721
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 114, exam day: 12----Course: 128, exam day: 11----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 162, exam day: 15----
+Student: 722
+Course: 11, exam day: 23----Course: 104, exam day: 11----Course: 116, exam day: 19----Course: 138, exam day: 4----
+Student: 723
+Course: 3, exam day: 9----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 75, exam day: 25----Course: 118, exam day: 14----
+Student: 724
+Course: 40, exam day: 2----Course: 66, exam day: 9----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 725
+Course: 55, exam day: 6----Course: 91, exam day: 16----
+Student: 726
+Course: 40, exam day: 2----Course: 47, exam day: 26----Course: 74, exam day: 6----Course: 102, exam day: 14----
+Student: 727
+Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 728
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 124, exam day: 20----
+Student: 729
+Course: 3, exam day: 9----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 105, exam day: 15----Course: 142, exam day: 23----
+Student: 730
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 61, exam day: 11----Course: 66, exam day: 9----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 145, exam day: 4----
+Student: 731
+Course: 33, exam day: 1----Course: 78, exam day: 18----Course: 82, exam day: 13----Course: 94, exam day: 15----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 174, exam day: 3----
+Student: 732
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 158, exam day: 7----
+Student: 733
+Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 51, exam day: 26----Course: 54, exam day: 7----
+Student: 734
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 75, exam day: 25----Course: 97, exam day: 19----Course: 165, exam day: 15----
+Student: 735
+Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 129, exam day: 18----Course: 142, exam day: 23----Course: 165, exam day: 15----
+Student: 736
+Course: 11, exam day: 23----Course: 37, exam day: 1----Course: 68, exam day: 16----Course: 69, exam day: 10----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 141, exam day: 8----Course: 149, exam day: 25----
+Student: 737
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 73, exam day: 7----Course: 103, exam day: 20----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 738
+Course: 37, exam day: 1----Course: 102, exam day: 14----
+Student: 739
+Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 50, exam day: 14----Course: 70, exam day: 9----Course: 112, exam day: 12----Course: 134, exam day: 8----Course: 162, exam day: 15----Course: 175, exam day: 21----
+Student: 740
+Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 50, exam day: 14----Course: 70, exam day: 9----Course: 112, exam day: 12----Course: 134, exam day: 8----Course: 162, exam day: 15----Course: 175, exam day: 21----
+Student: 741
+Course: 40, exam day: 2----Course: 68, exam day: 16----Course: 102, exam day: 14----Course: 179, exam day: 3----
+Student: 742
+Course: 2, exam day: 4----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 82, exam day: 13----Course: 92, exam day: 26----Course: 115, exam day: 12----Course: 129, exam day: 18----Course: 161, exam day: 5----
+Student: 743
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 82, exam day: 13----Course: 122, exam day: 16----Course: 125, exam day: 7----Course: 156, exam day: 25----Course: 176, exam day: 15----
+Student: 744
+Course: 42, exam day: 1----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 88, exam day: 26----Course: 101, exam day: 19----Course: 145, exam day: 4----Course: 151, exam day: 22----
+Student: 745
+Course: 16, exam day: 25----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 163, exam day: 21----Course: 177, exam day: 5----Course: 181, exam day: 16----
+Student: 746
+Course: 12, exam day: 22----Course: 16, exam day: 25----Course: 34, exam day: 1----Course: 78, exam day: 18----Course: 112, exam day: 12----Course: 168, exam day: 14----Course: 169, exam day: 10----Course: 176, exam day: 15----
+Student: 747
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 68, exam day: 16----Course: 89, exam day: 10----Course: 118, exam day: 14----Course: 146, exam day: 8----Course: 180, exam day: 9----
+Student: 748
+Course: 3, exam day: 9----Course: 98, exam day: 25----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 749
+Course: 37, exam day: 1----Course: 63, exam day: 15----Course: 109, exam day: 26----Course: 115, exam day: 12----Course: 144, exam day: 19----Course: 153, exam day: 13----Course: 177, exam day: 5----Course: 180, exam day: 9----
+Student: 750
+Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 177, exam day: 5----
+Student: 751
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 101, exam day: 19----
+Student: 752
+Course: 44, exam day: 22----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 150, exam day: 13----Course: 158, exam day: 7----Course: 181, exam day: 16----
+Student: 753
+Course: 37, exam day: 1----Course: 87, exam day: 6----Course: 103, exam day: 20----Course: 106, exam day: 4----Course: 118, exam day: 14----Course: 149, exam day: 25----
+Student: 754
+Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 150, exam day: 13----
+Student: 755
+Course: 8, exam day: 19----Course: 13, exam day: 23----Course: 35, exam day: 1----Course: 117, exam day: 9----Course: 128, exam day: 11----Course: 139, exam day: 7----Course: 171, exam day: 16----
+Student: 756
+Course: 3, exam day: 9----Course: 75, exam day: 25----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 757
+Course: 18, exam day: 13----Course: 35, exam day: 1----Course: 116, exam day: 19----Course: 155, exam day: 6----
+Student: 758
+Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 52, exam day: 11----Course: 82, exam day: 13----Course: 86, exam day: 24----
+Student: 759
+Course: 41, exam day: 1----Course: 52, exam day: 11----Course: 68, exam day: 16----Course: 88, exam day: 26----
+Student: 760
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----Course: 172, exam day: 21----Course: 177, exam day: 5----
+Student: 761
+Course: 4, exam day: 5----Course: 45, exam day: 1----Course: 47, exam day: 26----Course: 67, exam day: 24----Course: 73, exam day: 7----Course: 75, exam day: 25----
+Student: 762
+Course: 14, exam day: 8----Course: 34, exam day: 1----Course: 69, exam day: 10----Course: 78, exam day: 18----Course: 109, exam day: 26----Course: 126, exam day: 15----Course: 175, exam day: 21----Course: 177, exam day: 5----
+Student: 763
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 52, exam day: 11----Course: 75, exam day: 25----Course: 88, exam day: 26----Course: 146, exam day: 8----
+Student: 764
+Course: 8, exam day: 19----Course: 43, exam day: 2----Course: 69, exam day: 10----Course: 94, exam day: 15----Course: 142, exam day: 23----Course: 143, exam day: 9----Course: 148, exam day: 26----
+Student: 765
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 19, exam day: 26----
+Student: 766
+Course: 19, exam day: 26----Course: 37, exam day: 1----Course: 54, exam day: 7----Course: 169, exam day: 10----
+Student: 767
+Course: 3, exam day: 9----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 87, exam day: 6----Course: 90, exam day: 11----Course: 118, exam day: 14----Course: 129, exam day: 18----
+Student: 768
+Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 93, exam day: 15----Course: 164, exam day: 13----
+Student: 769
+Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 100, exam day: 18----Course: 145, exam day: 4----Course: 180, exam day: 9----
+Student: 770
+Course: 8, exam day: 19----Course: 12, exam day: 22----Course: 35, exam day: 1----Course: 113, exam day: 26----Course: 131, exam day: 21----Course: 141, exam day: 8----Course: 147, exam day: 18----
+Student: 771
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 772
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 157, exam day: 6----
+Student: 773
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 52, exam day: 11----Course: 66, exam day: 9----
+Student: 774
+Course: 11, exam day: 23----Course: 38, exam day: 3----Course: 43, exam day: 2----Course: 164, exam day: 13----Course: 172, exam day: 21----Course: 180, exam day: 9----Course: 181, exam day: 16----
+Student: 775
+Course: 8, exam day: 19----Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 43, exam day: 2----Course: 139, exam day: 7----Course: 163, exam day: 21----Course: 178, exam day: 11----
+Student: 776
+Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 18, exam day: 13----Course: 35, exam day: 1----Course: 51, exam day: 26----Course: 168, exam day: 14----Course: 172, exam day: 21----Course: 178, exam day: 11----
+Student: 777
+Course: 9, exam day: 25----Course: 40, exam day: 2----Course: 61, exam day: 11----Course: 179, exam day: 3----
+Student: 778
+Course: 8, exam day: 19----Course: 13, exam day: 23----Course: 57, exam day: 7----Course: 177, exam day: 5----Course: 181, exam day: 16----
+Student: 779
+Course: 5, exam day: 10----Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 54, exam day: 7----Course: 163, exam day: 21----
+Student: 780
+Course: 39, exam day: 3----Course: 77, exam day: 10----Course: 87, exam day: 6----Course: 96, exam day: 18----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 148, exam day: 26----
+Student: 781
+Course: 3, exam day: 9----Course: 8, exam day: 19----Course: 10, exam day: 21----Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 99, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 782
+Course: 42, exam day: 1----Course: 48, exam day: 23----Course: 145, exam day: 4----
+Student: 783
+Course: 1, exam day: 2----Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 119, exam day: 20----Course: 128, exam day: 11----Course: 139, exam day: 7----Course: 148, exam day: 26----
+Student: 784
+Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 86, exam day: 24----Course: 95, exam day: 22----Course: 113, exam day: 26----Course: 134, exam day: 8----Course: 162, exam day: 15----
+Student: 785
+Course: 3, exam day: 9----Course: 47, exam day: 26----Course: 89, exam day: 10----
+Student: 786
+Course: 13, exam day: 23----Course: 53, exam day: 12----Course: 101, exam day: 19----Course: 118, exam day: 14----Course: 146, exam day: 8----Course: 148, exam day: 26----
+Student: 787
+Course: 23, exam day: 26----Course: 43, exam day: 2----Course: 56, exam day: 16----Course: 85, exam day: 6----Course: 118, exam day: 14----Course: 140, exam day: 13----Course: 163, exam day: 21----
+Student: 788
+Course: 40, exam day: 2----Course: 45, exam day: 1----Course: 48, exam day: 23----Course: 68, exam day: 16----Course: 74, exam day: 6----Course: 101, exam day: 19----Course: 102, exam day: 14----
+Student: 789
+Course: 22, exam day: 2----Course: 33, exam day: 1----Course: 50, exam day: 14----Course: 56, exam day: 16----Course: 83, exam day: 24----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----
+Student: 790
+Course: 11, exam day: 23----Course: 35, exam day: 1----Course: 51, exam day: 26----Course: 126, exam day: 15----
+Student: 791
+Course: 68, exam day: 16----Course: 116, exam day: 19----Course: 179, exam day: 3----
+Student: 792
+Course: 14, exam day: 8----Course: 17, exam day: 24----Course: 35, exam day: 1----Course: 128, exam day: 11----Course: 177, exam day: 5----
+Student: 793
+Course: 40, exam day: 2----Course: 65, exam day: 26----
+Student: 794
+Course: 11, exam day: 23----Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 86, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 157, exam day: 6----
+Student: 795
+Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 86, exam day: 24----Course: 138, exam day: 4----Course: 163, exam day: 21----
+Student: 796
+Course: 3, exam day: 9----Course: 47, exam day: 26----Course: 68, exam day: 16----Course: 74, exam day: 6----
+Student: 797
+Course: 13, exam day: 23----Course: 53, exam day: 12----Course: 118, exam day: 14----Course: 146, exam day: 8----Course: 147, exam day: 18----
+Student: 798
+Course: 9, exam day: 25----Course: 145, exam day: 4----Course: 150, exam day: 13----
+Student: 799
+Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 118, exam day: 14----Course: 142, exam day: 23----Course: 146, exam day: 8----Course: 180, exam day: 9----
+Student: 800
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 115, exam day: 12----Course: 122, exam day: 16----Course: 137, exam day: 3----Course: 156, exam day: 25----Course: 176, exam day: 15----
+Student: 801
+Course: 53, exam day: 12----Course: 88, exam day: 26----Course: 103, exam day: 20----Course: 142, exam day: 23----Course: 145, exam day: 4----
+Student: 802
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 118, exam day: 14----
+Student: 803
+Course: 10, exam day: 21----Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 73, exam day: 7----Course: 75, exam day: 25----Course: 116, exam day: 19----
+Student: 804
+Course: 5, exam day: 10----Course: 8, exam day: 19----Course: 37, exam day: 1----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 139, exam day: 7----Course: 156, exam day: 25----
+Student: 805
+Course: 51, exam day: 26----Course: 143, exam day: 9----Course: 155, exam day: 6----
+Student: 806
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 86, exam day: 24----Course: 118, exam day: 14----Course: 147, exam day: 18----
+Student: 807
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 164, exam day: 13----
+Student: 808
+Course: 6, exam day: 11----Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 91, exam day: 16----Course: 110, exam day: 26----Course: 133, exam day: 21----Course: 153, exam day: 13----
+Student: 809
+Course: 25, exam day: 6----Course: 31, exam day: 2----Course: 71, exam day: 7----Course: 79, exam day: 18----Course: 108, exam day: 26----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 173, exam day: 11----
+Student: 810
+Course: 30, exam day: 1----Course: 49, exam day: 20----Course: 60, exam day: 7----Course: 94, exam day: 15----Course: 107, exam day: 14----Course: 130, exam day: 23----Course: 152, exam day: 24----
+Student: 811
+Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 73, exam day: 7----Course: 75, exam day: 25----Course: 145, exam day: 4----
+Student: 812
+Course: 11, exam day: 23----Course: 16, exam day: 25----Course: 70, exam day: 9----Course: 128, exam day: 11----Course: 135, exam day: 18----Course: 177, exam day: 5----
+Student: 813
+Course: 40, exam day: 2----Course: 42, exam day: 1----Course: 53, exam day: 12----Course: 75, exam day: 25----Course: 88, exam day: 26----Course: 146, exam day: 8----Course: 147, exam day: 18----
+Student: 814
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 98, exam day: 25----
+Student: 815
+Course: 14, exam day: 8----Course: 33, exam day: 1----Course: 82, exam day: 13----Course: 113, exam day: 26----Course: 122, exam day: 16----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 161, exam day: 5----
+Student: 816
+Course: 9, exam day: 25----Course: 88, exam day: 26----Course: 100, exam day: 18----
+Student: 817
+Course: 9, exam day: 25----Course: 74, exam day: 6----Course: 102, exam day: 14----
+Student: 818
+Course: 48, exam day: 23----Course: 65, exam day: 26----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 164, exam day: 13----Course: 181, exam day: 16----
+Student: 819
+Course: 19, exam day: 26----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 53, exam day: 12----Course: 74, exam day: 6----Course: 181, exam day: 16----
+Student: 820
+Course: 40, exam day: 2----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 821
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 822
+Course: 8, exam day: 19----Course: 17, exam day: 24----Course: 18, exam day: 13----Course: 35, exam day: 1----Course: 77, exam day: 10----Course: 119, exam day: 20----Course: 141, exam day: 8----
+Student: 823
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 88, exam day: 26----Course: 100, exam day: 18----Course: 146, exam day: 8----Course: 151, exam day: 22----Course: 164, exam day: 13----
+Student: 824
+Course: 3, exam day: 9----Course: 100, exam day: 18----Course: 145, exam day: 4----
+Student: 825
+Course: 3, exam day: 9----Course: 9, exam day: 25----Course: 20, exam day: 16----Course: 40, exam day: 2----Course: 65, exam day: 26----Course: 103, exam day: 20----Course: 158, exam day: 7----
+Student: 826
+Course: 116, exam day: 19----Course: 147, exam day: 18----
+Student: 827
+Course: 40, exam day: 2----Course: 145, exam day: 4----Course: 150, exam day: 13----
+Student: 828
+Course: 27, exam day: 10----Course: 34, exam day: 1----Course: 64, exam day: 23----Course: 84, exam day: 17----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 829
+Course: 41, exam day: 1----Course: 52, exam day: 11----Course: 102, exam day: 14----
+Student: 830
+Course: 68, exam day: 16----Course: 74, exam day: 6----Course: 142, exam day: 23----
+Student: 831
+Course: 3, exam day: 9----Course: 74, exam day: 6----Course: 102, exam day: 14----
+Student: 832
+Course: 19, exam day: 26----Course: 52, exam day: 11----Course: 102, exam day: 14----
+Student: 833
+Course: 41, exam day: 1----Course: 61, exam day: 11----Course: 102, exam day: 14----
+Student: 834
+Course: 40, exam day: 2----Course: 52, exam day: 11----Course: 74, exam day: 6----
+Student: 835
+Course: 61, exam day: 11----Course: 66, exam day: 9----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 836
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 100, exam day: 18----
+Student: 837
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 52, exam day: 11----
+Student: 838
+Course: 47, exam day: 26----Course: 52, exam day: 11----Course: 102, exam day: 14----
+Student: 839
+Course: 40, exam day: 2----Course: 52, exam day: 11----Course: 145, exam day: 4----
+Student: 840
+Course: 37, exam day: 1----Course: 119, exam day: 20----Course: 125, exam day: 7----Course: 129, exam day: 18----Course: 140, exam day: 13----Course: 148, exam day: 26----
+Student: 841
+Course: 8, exam day: 19----Course: 11, exam day: 23----Course: 14, exam day: 8----Course: 18, exam day: 13----Course: 126, exam day: 15----Course: 175, exam day: 21----Course: 178, exam day: 11----
+Student: 842
+Course: 40, exam day: 2----Course: 66, exam day: 9----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 158, exam day: 7----
+Student: 843
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 150, exam day: 13----
+Student: 844
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 145, exam day: 4----
+Student: 845
+Course: 100, exam day: 18----Course: 157, exam day: 6----
+Student: 846
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 138, exam day: 4----
+Student: 847
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 148, exam day: 26----Course: 151, exam day: 22----
+Student: 848
+Course: 98, exam day: 25----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 849
+Course: 40, exam day: 2----Course: 61, exam day: 11----
+Student: 850
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 33, exam day: 1----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 145, exam day: 4----
+Student: 851
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 52, exam day: 11----Course: 75, exam day: 25----Course: 124, exam day: 20----Course: 165, exam day: 15----
+Student: 852
+Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 853
+Course: 15, exam day: 19----Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 72, exam day: 8----Course: 80, exam day: 18----Course: 109, exam day: 26----Course: 132, exam day: 23----Course: 153, exam day: 13----
+Student: 854
+Course: 24, exam day: 6----Course: 28, exam day: 1----Course: 70, exam day: 9----Course: 80, exam day: 18----Course: 91, exam day: 16----Course: 108, exam day: 26----Course: 131, exam day: 21----Course: 153, exam day: 13----
+Student: 855
+Course: 30, exam day: 1----Course: 71, exam day: 7----Course: 81, exam day: 19----Course: 110, exam day: 26----Course: 121, exam day: 3----Course: 130, exam day: 23----Course: 154, exam day: 12----Course: 159, exam day: 17----
+Student: 856
+Course: 4, exam day: 5----Course: 13, exam day: 23----Course: 39, exam day: 3----Course: 67, exam day: 24----Course: 116, exam day: 19----Course: 139, exam day: 7----Course: 171, exam day: 16----
+Student: 857
+Course: 2, exam day: 4----Course: 11, exam day: 23----Course: 34, exam day: 1----Course: 63, exam day: 15----Course: 82, exam day: 13----Course: 92, exam day: 26----Course: 115, exam day: 12----Course: 134, exam day: 8----
+Student: 858
+Course: 18, exam day: 13----Course: 33, exam day: 1----Course: 39, exam day: 3----Course: 69, exam day: 10----Course: 107, exam day: 14----Course: 113, exam day: 26----Course: 144, exam day: 19----
+Student: 859
+Course: 11, exam day: 23----Course: 27, exam day: 10----Course: 35, exam day: 1----Course: 93, exam day: 15----Course: 117, exam day: 9----Course: 125, exam day: 7----Course: 144, exam day: 19----Course: 156, exam day: 25----
+Student: 860
+Course: 10, exam day: 21----Course: 47, exam day: 26----Course: 52, exam day: 11----Course: 74, exam day: 6----Course: 164, exam day: 13----Course: 180, exam day: 9----
+Student: 861
+Course: 11, exam day: 23----Course: 32, exam day: 1----Course: 104, exam day: 11----Course: 114, exam day: 12----Course: 135, exam day: 18----Course: 156, exam day: 25----Course: 170, exam day: 9----Course: 172, exam day: 21----
+Student: 862
+Course: 5, exam day: 10----Course: 8, exam day: 19----Course: 18, exam day: 13----Course: 43, exam day: 2----Course: 75, exam day: 25----Course: 76, exam day: 18----Course: 163, exam day: 21----
+Student: 863
+Course: 38, exam day: 3----Course: 116, exam day: 19----
+Student: 864
+Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 66, exam day: 9----Course: 116, exam day: 19----Course: 147, exam day: 18----Course: 169, exam day: 10----
+Student: 865
+Course: 11, exam day: 23----Course: 24, exam day: 6----Course: 34, exam day: 1----Course: 69, exam day: 10----Course: 108, exam day: 26----Course: 153, exam day: 13----
+Student: 866
+Course: 22, exam day: 2----Course: 30, exam day: 1----Course: 49, exam day: 20----Course: 108, exam day: 26----Course: 130, exam day: 23----Course: 136, exam day: 11----Course: 166, exam day: 25----Course: 170, exam day: 9----
+Student: 867
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 68, exam day: 16----Course: 75, exam day: 25----Course: 97, exam day: 19----
+Student: 868
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 869
+Course: 3, exam day: 9----Course: 19, exam day: 26----Course: 41, exam day: 1----
+Student: 870
+Course: 33, exam day: 1----Course: 62, exam day: 7----Course: 82, exam day: 13----Course: 113, exam day: 26----Course: 122, exam day: 16----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 162, exam day: 15----
+Student: 871
+Course: 27, exam day: 10----Course: 28, exam day: 1----Course: 49, exam day: 20----Course: 62, exam day: 7----Course: 107, exam day: 14----Course: 132, exam day: 23----Course: 162, exam day: 15----Course: 175, exam day: 21----
+Student: 872
+Course: 1, exam day: 2----Course: 14, exam day: 8----Course: 18, exam day: 13----Course: 32, exam day: 1----Course: 62, exam day: 7----Course: 113, exam day: 26----Course: 155, exam day: 6----Course: 178, exam day: 11----
+Student: 873
+Course: 42, exam day: 1----Course: 88, exam day: 26----
+Student: 874
+Course: 16, exam day: 25----Course: 34, exam day: 1----Course: 77, exam day: 10----Course: 78, exam day: 18----Course: 82, exam day: 13----Course: 95, exam day: 22----Course: 161, exam day: 5----Course: 175, exam day: 21----
+Student: 875
+Course: 4, exam day: 5----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 66, exam day: 9----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 179, exam day: 3----
+Student: 876
+Course: 9, exam day: 25----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 124, exam day: 20----Course: 165, exam day: 15----
+Student: 877
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 68, exam day: 16----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 103, exam day: 20----
+Student: 878
+Course: 3, exam day: 9----Course: 40, exam day: 2----Course: 100, exam day: 18----
+Student: 879
+Course: 10, exam day: 21----Course: 40, exam day: 2----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 151, exam day: 22----
+Student: 880
+Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 145, exam day: 4----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 151, exam day: 22----
+Student: 881
+Course: 2, exam day: 4----Course: 14, exam day: 8----Course: 22, exam day: 2----Course: 33, exam day: 1----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 882
+Course: 41, exam day: 1----Course: 74, exam day: 6----Course: 164, exam day: 13----
+Student: 883
+Course: 35, exam day: 1----Course: 116, exam day: 19----Course: 177, exam day: 5----
+Student: 884
+Course: 10, exam day: 21----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 73, exam day: 7----Course: 112, exam day: 12----Course: 145, exam day: 4----Course: 165, exam day: 15----
+Student: 885
+Course: 40, exam day: 2----Course: 98, exam day: 25----Course: 157, exam day: 6----
+Student: 886
+Course: 8, exam day: 19----Course: 18, exam day: 13----Course: 20, exam day: 16----Course: 39, exam day: 3----Course: 76, exam day: 18----Course: 113, exam day: 26----Course: 175, exam day: 21----
+Student: 887
+Course: 13, exam day: 23----Course: 19, exam day: 26----Course: 40, exam day: 2----
+Student: 888
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 54, exam day: 7----Course: 67, exam day: 24----Course: 77, exam day: 10----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 178, exam day: 11----
+Student: 889
+Course: 19, exam day: 26----Course: 41, exam day: 1----Course: 73, exam day: 7----Course: 102, exam day: 14----
+Student: 890
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 891
+Course: 39, exam day: 3----Course: 46, exam day: 1----Course: 49, exam day: 20----Course: 56, exam day: 16----Course: 114, exam day: 12----Course: 132, exam day: 23----Course: 143, exam day: 9----Course: 175, exam day: 21----
+Student: 892
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 114, exam day: 12----Course: 119, exam day: 20----Course: 128, exam day: 11----Course: 143, exam day: 9----Course: 149, exam day: 25----
+Student: 893
+Course: 100, exam day: 18----Course: 145, exam day: 4----Course: 157, exam day: 6----
+Student: 894
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 895
+Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 896
+Course: 30, exam day: 1----Course: 72, exam day: 8----Course: 79, exam day: 18----Course: 111, exam day: 6----Course: 121, exam day: 3----Course: 133, exam day: 21----Course: 153, exam day: 13----Course: 167, exam day: 25----
+Student: 897
+Course: 44, exam day: 22----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 898
+Course: 24, exam day: 6----Course: 31, exam day: 2----Course: 70, exam day: 9----Course: 105, exam day: 15----Course: 109, exam day: 26----Course: 130, exam day: 23----Course: 152, exam day: 24----Course: 174, exam day: 3----
+Student: 899
+Course: 3, exam day: 9----Course: 5, exam day: 10----Course: 11, exam day: 23----Course: 25, exam day: 6----Course: 35, exam day: 1----Course: 106, exam day: 4----Course: 116, exam day: 19----
+Student: 900
+Course: 3, exam day: 9----Course: 10, exam day: 21----Course: 17, exam day: 24----Course: 55, exam day: 6----Course: 116, exam day: 19----Course: 129, exam day: 18----
+Student: 901
+Course: 2, exam day: 4----Course: 34, exam day: 1----Course: 104, exam day: 11----Course: 115, exam day: 12----Course: 135, exam day: 18----Course: 143, exam day: 9----Course: 169, exam day: 10----Course: 172, exam day: 21----
+Student: 902
+Course: 4, exam day: 5----Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 74, exam day: 6----
+Student: 903
+Course: 40, exam day: 2----Course: 47, exam day: 26----Course: 73, exam day: 7----Course: 164, exam day: 13----
+Student: 904
+Course: 37, exam day: 1----Course: 71, exam day: 7----Course: 119, exam day: 20----Course: 127, exam day: 25----Course: 171, exam day: 16----Course: 172, exam day: 21----Course: 177, exam day: 5----
+Student: 905
+Course: 41, exam day: 1----Course: 74, exam day: 6----Course: 164, exam day: 13----
+Student: 906
+Course: 99, exam day: 24----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----Course: 179, exam day: 3----
+Student: 907
+Course: 14, exam day: 8----Course: 20, exam day: 16----Course: 47, exam day: 26----Course: 66, exam day: 9----Course: 67, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----
+Student: 908
+Course: 19, exam day: 26----Course: 52, exam day: 11----Course: 68, exam day: 16----
+Student: 909
+Course: 3, exam day: 9----Course: 100, exam day: 18----Course: 102, exam day: 14----
+Student: 910
+Course: 19, exam day: 26----Course: 52, exam day: 11----Course: 74, exam day: 6----
+Student: 911
+Course: 3, exam day: 9----Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 912
+Course: 10, exam day: 21----Course: 43, exam day: 2----Course: 48, exam day: 23----Course: 61, exam day: 11----Course: 68, exam day: 16----Course: 74, exam day: 6----
+Student: 913
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 88, exam day: 26----Course: 179, exam day: 3----
+Student: 914
+Course: 116, exam day: 19----Course: 139, exam day: 7----Course: 163, exam day: 21----
+Student: 915
+Course: 41, exam day: 1----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 916
+Course: 4, exam day: 5----Course: 44, exam day: 22----Course: 101, exam day: 19----Course: 102, exam day: 14----Course: 157, exam day: 6----Course: 179, exam day: 3----
+Student: 917
+Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 150, exam day: 13----
+Student: 918
+Course: 61, exam day: 11----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 919
+Course: 11, exam day: 23----Course: 56, exam day: 16----Course: 61, exam day: 11----Course: 74, exam day: 6----Course: 140, exam day: 13----Course: 146, exam day: 8----
+Student: 920
+Course: 3, exam day: 9----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 157, exam day: 6----
+Student: 921
+Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 65, exam day: 26----Course: 67, exam day: 24----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 165, exam day: 15----
+Student: 922
+Course: 75, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 157, exam day: 6----
+Student: 923
+Course: 1, exam day: 2----Course: 39, exam day: 3----Course: 63, exam day: 15----Course: 78, exam day: 18----Course: 112, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 924
+Course: 18, exam day: 13----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 77, exam day: 10----Course: 127, exam day: 25----Course: 141, exam day: 8----Course: 163, exam day: 21----Course: 178, exam day: 11----
+Student: 925
+Course: 14, exam day: 8----Course: 18, exam day: 13----Course: 33, exam day: 1----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 136, exam day: 11----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 926
+Course: 40, exam day: 2----Course: 44, exam day: 22----Course: 53, exam day: 12----Course: 68, exam day: 16----Course: 74, exam day: 6----Course: 146, exam day: 8----
+Student: 927
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 61, exam day: 11----Course: 74, exam day: 6----Course: 146, exam day: 8----
+Student: 928
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 146, exam day: 8----Course: 151, exam day: 22----Course: 158, exam day: 7----
+Student: 929
+Course: 43, exam day: 2----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 150, exam day: 13----Course: 158, exam day: 7----
+Student: 930
+Course: 40, exam day: 2----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 145, exam day: 4----
+Student: 931
+Course: 40, exam day: 2----Course: 74, exam day: 6----Course: 145, exam day: 4----
+Student: 932
+Course: 40, exam day: 2----Course: 48, exam day: 23----Course: 53, exam day: 12----Course: 164, exam day: 13----Course: 179, exam day: 3----Course: 181, exam day: 16----
+Student: 933
+Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 150, exam day: 13----Course: 157, exam day: 6----
+Student: 934
+Course: 19, exam day: 26----Course: 68, exam day: 16----
+Student: 935
+Course: 47, exam day: 26----Course: 53, exam day: 12----Course: 103, exam day: 20----Course: 146, exam day: 8----Course: 150, exam day: 13----Course: 179, exam day: 3----
+Student: 936
+Course: 41, exam day: 1----Course: 99, exam day: 24----Course: 100, exam day: 18----Course: 103, exam day: 20----Course: 146, exam day: 8----Course: 150, exam day: 13----
+Student: 937
+Course: 33, exam day: 1----Course: 69, exam day: 10----Course: 83, exam day: 24----Course: 105, exam day: 15----Course: 114, exam day: 12----Course: 134, exam day: 8----Course: 144, exam day: 19----Course: 155, exam day: 6----
+Student: 938
+Course: 11, exam day: 23----Course: 14, exam day: 8----Course: 37, exam day: 1----Course: 43, exam day: 2----Course: 53, exam day: 12----Course: 66, exam day: 9----Course: 116, exam day: 19----Course: 138, exam day: 4----
+Student: 939
+Course: 40, exam day: 2----Course: 53, exam day: 12----Course: 74, exam day: 6----Course: 101, exam day: 19----Course: 103, exam day: 20----Course: 118, exam day: 14----Course: 179, exam day: 3----
+Student: 940
+Course: 73, exam day: 7----Course: 74, exam day: 6----Course: 88, exam day: 26----
+Student: 941
+Course: 43, exam day: 2----Course: 98, exam day: 25----Course: 100, exam day: 18----Course: 102, exam day: 14----Course: 151, exam day: 22----Course: 158, exam day: 7----

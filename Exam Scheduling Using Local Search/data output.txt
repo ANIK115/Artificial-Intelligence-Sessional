@@ -1,0 +1,405 @@
+Solution for file Toronto/car-f-92.stu using Largest Degree and Exponential Penalty
+Total days: 32
+Penalty: 10.615288560725338
+Penalty before kempe chain: 10.615288560725338
+Penalty after kempe chain: 5.287963515934632
+Penalty after running Pair swap operator: 5.287963515934632
+Final Penalty: 5.287963515934632
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Largest Degree and Exponential Penalty
+Total days: 34
+Penalty: 11.495716395864106
+Penalty before kempe chain: 11.495716395864106
+Penalty after kempe chain: 6.71231905465288
+Penalty after running Pair swap operator: 6.71231905465288
+Final Penalty: 6.71231905465288
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Largest Degree  and Exponential Penalty
+Total days: 20
+Penalty: 46.51598429613012
+Penalty before kempe chain: 46.51598429613012
+Penalty after kempe chain: 15.41503084688727
+Penalty after running Pair swap operator: 15.41503084688727
+Final Penalty: 15.41503084688727
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Largest Degree and Exponential Penalty
+Total days: 23
+Penalty: 15.90091743119266
+Penalty before kempe chain: 15.90091743119266
+Penalty after kempe chain: 9.528211009174312
+Penalty after running Pair swap operator: 9.528211009174312
+Final Penalty: 9.528211009174312
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Largest Degree and Exponential Penalty
+Total days: 23
+Penalty: 64.68862911795962
+Penalty before kempe chain: 64.68862911795962
+Penalty after kempe chain: 36.04675876726886
+Penalty after running Pair swap operator: 36.04675876726886
+Final Penalty: 36.04675876726886
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Saturation Degree and Exponential Penalty
+Total days: 30
+Penalty: 9.936152885607253
+Penalty before kempe chain: 9.936152885607253
+Penalty after kempe chain: 5.565720180248657
+Penalty after running Pair swap operator: 5.565720180248657
+Final Penalty: 5.565720180248657
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Saturation Degree and Exponential Penalty
+Total days: 31
+Penalty: 12.695243722304284
+Penalty before kempe chain: 12.695243722304284
+Penalty after kempe chain: 7.517991137370753
+Penalty after running Pair swap operator: 7.517754800590842
+Final Penalty: 7.517754800590842
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Saturation Degree and Exponential Penalty
+Total days: 19
+Penalty: 46.736212376145076
+Penalty before kempe chain: 46.736212376145076
+Penalty after kempe chain: 17.982239670966536
+Penalty after running Pair swap operator: 17.504767246214247
+Final Penalty: 17.504767246214247
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Saturation Degree and Exponential Penalty
+Total days: 23
+Penalty: 15.650229357798166
+Penalty before kempe chain: 15.650229357798166
+Penalty after kempe chain: 9.78119266055046
+Penalty after running Pair swap operator: 9.78119266055046
+Final Penalty: 9.78119266055046
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Saturation Degree and Exponential Penalty
+Total days: 20
+Penalty: 61.65887353878852
+Penalty before kempe chain: 61.65887353878852
+Penalty after kempe chain: 45.2327311370882
+Penalty after running Pair swap operator: 45.2327311370882
+Final Penalty: 45.2327311370882
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Largest Enrollment and Exponential Penalty
+Total days: 35
+Penalty: 10.696020413703241
+Penalty before kempe chain: 10.696020413703241
+Penalty after kempe chain: 4.501384439980455
+Penalty after running Pair swap operator: 4.501384439980455
+Final Penalty: 4.501384439980455
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Largest Enrollment and Exponential Penalty
+Total days: 36
+Penalty: 13.780974889217134
+Penalty before kempe chain: 13.780974889217134
+Penalty after kempe chain: 5.982629246676514
+Penalty after running Pair swap operator: 5.982629246676514
+Final Penalty: 5.982629246676514
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Largest Enrollment and Exponential Penalty
+Total days: 21
+Penalty: 54.51205832865956
+Penalty before kempe chain: 54.51205832865956
+Penalty after kempe chain: 14.72779958870817
+Penalty after running Pair swap operator: 14.72779958870817
+Final Penalty: 14.72779958870817
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Largest Enrollment and Exponential Penalty
+Total days: 22
+Penalty: 16.329816513761468
+Penalty before kempe chain: 16.329816513761468
+Penalty after kempe chain: 10.11880733944954
+Penalty after running Pair swap operator: 10.11880733944954
+Final Penalty: 10.11880733944954
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Largest Enrollment and Exponential Penalty
+Total days: 25
+Penalty: 63.270988310308184
+Penalty before kempe chain: 63.270988310308184
+Penalty after kempe chain: 30.133900106269927
+Penalty after running Pair swap operator: 30.133900106269927
+Final Penalty: 30.133900106269927
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Random Ordering and Exponential Penalty
+Total days: 44
+Penalty: 8.100114012704273
+Penalty before kempe chain: 8.100114012704273
+Penalty after kempe chain: 3.3559368043867743
+Penalty after running Pair swap operator: 3.3559368043867743
+Final Penalty: 3.3559368043867743
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Random Ordering and Exponential Penalty
+Total days: 50
+Penalty: 9.302924667651403
+Penalty before kempe chain: 9.302924667651403
+Penalty after kempe chain: 3.901979320531758
+Penalty after running Pair swap operator: 3.901979320531758
+Final Penalty: 3.901979320531758
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Random Ordering and Exponential Penalty
+Total days: 26
+Penalty: 30.90222471489998
+Penalty before kempe chain: 30.90222471489998
+Penalty after kempe chain: 8.902785567395775
+Penalty after running Pair swap operator: 8.902785567395775
+Final Penalty: 8.902785567395775
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Random Ordering and Exponential Penalty
+Total days: 28
+Penalty: 12.815596330275229
+Penalty before kempe chain: 12.815596330275229
+Penalty after kempe chain: 6.69059633027523
+Penalty after running Pair swap operator: 6.679587155963302
+Final Penalty: 6.679587155963302
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Random Ordering and Exponential Penalty
+Total days: 26
+Penalty: 53.63336875664187
+Penalty before kempe chain: 53.63336875664187
+Penalty after kempe chain: 28.422954303931988
+Penalty after running Pair swap operator: 28.422954303931988
+Final Penalty: 28.422954303931988
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Random Ordering and Exponential Penalty
+Total days: 44
+Penalty: 8.100114012704273
+Penalty before kempe chain: 8.100114012704273
+Penalty after kempe chain: 3.3559368043867743
+Penalty after running Pair swap operator: 3.3559368043867743
+Final Penalty: 3.3559368043867743
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Random Ordering and Exponential Penalty
+Total days: 50
+Penalty: 9.302924667651403
+Penalty before kempe chain: 9.302924667651403
+Penalty after kempe chain: 3.901979320531758
+Penalty after running Pair swap operator: 3.901979320531758
+Final Penalty: 3.901979320531758
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Random Ordering and Exponential Penalty
+Total days: 26
+Penalty: 30.90222471489998
+Penalty before kempe chain: 30.90222471489998
+Penalty after kempe chain: 8.902785567395775
+Penalty after running Pair swap operator: 8.902785567395775
+Final Penalty: 8.902785567395775
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Random Ordering and Exponential Penalty
+Total days: 28
+Penalty: 12.815596330275229
+Penalty before kempe chain: 12.815596330275229
+Penalty after kempe chain: 6.69059633027523
+Penalty after running Pair swap operator: 6.679587155963302
+Final Penalty: 6.679587155963302
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Random Ordering and Exponential Penalty
+Total days: 26
+Penalty: 53.63336875664187
+Penalty before kempe chain: 53.63336875664187
+Penalty after kempe chain: 28.422954303931988
+Penalty after running Pair swap operator: 28.422954303931988
+Final Penalty: 28.422954303931988
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Largest Degree and Linear Penalty
+Total days: 32
+Penalty: 6.762256365709322
+Penalty before kempe chain: 6.762256365709322
+Penalty after kempe chain: 3.3670666159943536
+Penalty after running Pair swap operator: 3.3670666159943536
+Final Penalty: 3.3670666159943536
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Largest Degree and Linear Penalty
+Total days: 34
+Penalty: 7.4046676514032495
+Penalty before kempe chain: 7.4046676514032495
+Penalty after kempe chain: 4.397636632200887
+Penalty after running Pair swap operator: 4.395155096011817
+Final Penalty: 4.395155096011817
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Largest Degree and Linear Penalty
+Total days: 20
+Penalty: 28.732847261170313
+Penalty before kempe chain: 28.732847261170313
+Penalty after kempe chain: 11.587212563095905
+Penalty after running Pair swap operator: 11.587212563095905
+Final Penalty: 11.587212563095905
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Largest Degree and Linear Penalty
+Total days: 23
+Penalty: 10.141743119266055
+Penalty before kempe chain: 10.141743119266055
+Penalty after kempe chain: 6.377064220183486
+Penalty after running Pair swap operator: 6.377064220183486
+Final Penalty: 6.377064220183486
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Largest Degree and Linear Penalty
+Total days: 23
+Penalty: 40.75664187035069
+Penalty before kempe chain: 40.75664187035069
+Penalty after kempe chain: 23.883103081827844
+Penalty after running Pair swap operator: 23.861849096705633
+Final Penalty: 23.861849096705633
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Saturation Degree and Linear Penalty
+Total days: 30
+Penalty: 6.472012595689234
+Penalty before kempe chain: 6.472012595689234
+Penalty after kempe chain: 3.649818122590803
+Penalty after running Pair swap operator: 3.649818122590803
+Final Penalty: 3.649818122590803
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Saturation Degree and Linear Penalty
+Total days: 31
+Penalty: 8.11202363367799
+Penalty before kempe chain: 8.11202363367799
+Penalty after kempe chain: 4.936011816838995
+Penalty after running Pair swap operator: 4.935420974889217
+Final Penalty: 4.935420974889217
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Saturation Degree and Linear Penalty
+Total days: 19
+Penalty: 28.99682183585717
+Penalty before kempe chain: 28.99682183585717
+Penalty after kempe chain: 11.687792110674893
+Penalty after running Pair swap operator: 11.687792110674893
+Final Penalty: 11.687792110674893
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Saturation Degree and Linear Penalty
+Total days: 23
+Penalty: 10.047706422018349
+Penalty before kempe chain: 10.047706422018349
+Penalty after kempe chain: 6.327064220183487
+Penalty after running Pair swap operator: 6.321100917431193
+Final Penalty: 6.321100917431193
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Saturation Degree and Linear Penalty
+Total days: 20
+Penalty: 38.92454835281615
+Penalty before kempe chain: 38.92454835281615
+Penalty after kempe chain: 29.451647183846973
+Penalty after running Pair swap operator: 29.451647183846973
+Final Penalty: 29.451647183846973
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Largest Enrollment and Linear Penalty
+Total days: 35
+Penalty: 6.732938813182041
+Penalty before kempe chain: 6.732938813182041
+Penalty after kempe chain: 2.871708561811173
+Penalty after running Pair swap operator: 2.871708561811173
+Final Penalty: 2.871708561811173
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Largest Enrollment and Linear Penalty
+Total days: 36
+Penalty: 8.850103397341211
+Penalty before kempe chain: 8.850103397341211
+Penalty after kempe chain: 3.950723781388479
+Penalty after running Pair swap operator: 3.950723781388479
+Final Penalty: 3.950723781388479
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Largest Enrollment and Linear Penalty
+Total days: 21
+Penalty: 34.24116657319125
+Penalty before kempe chain: 34.24116657319125
+Penalty after kempe chain: 9.467564030659936
+Penalty after running Pair swap operator: 9.467564030659936
+Final Penalty: 9.467564030659936
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Largest Enrollment and Linear Penalty
+Total days: 22
+Penalty: 10.431651376146789
+Penalty before kempe chain: 10.431651376146789
+Penalty after kempe chain: 6.588990825688073
+Penalty after running Pair swap operator: 6.586238532110092
+Final Penalty: 6.586238532110092
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Largest Enrollment and Linear Penalty
+Total days: 25
+Penalty: 40.24017003188098
+Penalty before kempe chain: 40.24017003188098
+Penalty after kempe chain: 20.926673751328373
+Penalty after running Pair swap operator: 20.926673751328373
+Final Penalty: 20.926673751328373
+------------------------------------------
+
+Solution for file Toronto/car-f-92.stu using Random Ordering and Linear Penalty
+Total days: 44
+Penalty: 5.187360877354905
+Penalty before kempe chain: 5.187360877354905
+Penalty after kempe chain: 2.106086106737608
+Penalty after running Pair swap operator: 2.106086106737608
+Final Penalty: 2.106086106737608
+------------------------------------------
+
+Solution for file Toronto/car-s-91.stu using Random Ordering and Linear Penalty
+Total days: 50
+Penalty: 6.006381093057607
+Penalty before kempe chain: 6.006381093057607
+Penalty after kempe chain: 2.5585819793205316
+Penalty after running Pair swap operator: 2.5582274741506645
+Final Penalty: 2.5582274741506645
+------------------------------------------
+
+Solution for file Toronto/kfu-s-93.stu using Random Ordering and Linear Penalty
+Total days: 26
+Penalty: 19.68554870069172
+Penalty before kempe chain: 19.68554870069172
+Penalty after kempe chain: 6.3653019255935686
+Penalty after running Pair swap operator: 6.3653019255935686
+Final Penalty: 6.3653019255935686
+------------------------------------------
+
+Solution for file Toronto/tre-s-92.stu using Random Ordering and Linear Penalty
+Total days: 28
+Penalty: 8.262385321100917
+Penalty before kempe chain: 8.262385321100917
+Penalty after kempe chain: 4.480733944954128
+Penalty after running Pair swap operator: 4.480733944954128
+Final Penalty: 4.480733944954128
+------------------------------------------
+
+Solution for file Toronto/yor-f-83.stu using Random Ordering and Linear Penalty
+Total days: 26
+Penalty: 34.26780021253985
+Penalty before kempe chain: 34.26780021253985
+Penalty after kempe chain: 19.97874601487779
+Penalty after running Pair swap operator: 19.97874601487779
+Final Penalty: 19.97874601487779
+------------------------------------------
+

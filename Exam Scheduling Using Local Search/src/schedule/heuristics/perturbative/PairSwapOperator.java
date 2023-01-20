@@ -14,11 +14,16 @@ public class PairSwapOperator{
     List<Student> students;
     HashMap<Integer, Vertex> map;
     List<DiffColorPair> pairs;
+    Penalty penalty;
     public PairSwapOperator(Graph graph) {
         pairs = new ArrayList<>();
         this.graph = graph;
         students = new ArrayList<>();
         map = new HashMap<>();
+    }
+
+    public void setPenalty(Penalty penalty) {
+        this.penalty = penalty;
     }
 
     public void setStudents(List<Student> students) {
@@ -77,7 +82,6 @@ public class PairSwapOperator{
     }
     public double reducePenalty(int iterations)
     {
-        Penalty penalty = new LinearPenalty();
         double totalPenalty = penalty.getPenalty(students, map);
         System.out.println("Current penalty: "+totalPenalty);
         pairs = createDiffColorPairs(graph);

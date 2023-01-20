@@ -16,8 +16,8 @@ public class SolutionLog {
     {
         this.graph = graph;
     }
-    public void printSolution(File file) throws IOException {
-        FileWriter writer = new FileWriter(new File("output.txt"));
+    public void printSolution(File file, File outputFile) throws IOException {
+        FileWriter writer = new FileWriter(outputFile);
         HashMap<Integer, Vertex> courseMap = new HashMap<>();
         for(Vertex u : graph.getVertices())
         {
