@@ -42,7 +42,7 @@ public class Scheduler {
         {
             courseMap.put(u.getNode().getCourseCode(), u);
         }
-        Scanner scanner = new Scanner(new File("Toronto/car-f-92.stu"));
+        Scanner scanner = new Scanner(new File("Toronto/yor-f-83.stu"));
         int i=1;
         boolean flag = false;
         while(scanner.hasNext())

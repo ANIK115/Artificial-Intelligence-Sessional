@@ -1,10 +1,8 @@
 package base;
 
 import schedule.Scheduler;
-import schedule.heuristics.constractive.ConstructiveHeuristic;
-import schedule.heuristics.constractive.DSatur;
-import schedule.heuristics.constractive.LargestDegreeHeuristic;
-import schedule.heuristics.constractive.LargestEnrolment;
+import schedule.heuristics.constractive.*;
+import schedule.heuristics.perturbative.ExponentialPenalty;
 import schedule.heuristics.perturbative.KempeChain;
 import schedule.heuristics.perturbative.LinearPenalty;
 import schedule.heuristics.perturbative.Penalty;
@@ -18,10 +16,10 @@ import java.util.Scanner;
 public class Solver {
 
     public static void main(String[] args) throws IOException {
-        String studentFile = "Toronto/car-f-92.stu";
-        String courseFile = "Toronto/car-f-92.crs";
+        String studentFile = "Toronto/yor-f-83.stu";
+        String courseFile = "Toronto/yor-f-83.crs";
         Model model = new Model(courseFile, studentFile);
-        ConstructiveHeuristic conHeuristic = new LargestDegreeHeuristic();
+        ConstructiveHeuristic conHeuristic = new RandomOrdering();
         Scheduler scheduler = new Scheduler();
         scheduler.setGraph(model);
         scheduler.setConHeuristic(conHeuristic);
@@ -36,7 +34,7 @@ public class Solver {
         KempeChain kempeChain = new KempeChain(scheduler.graph);
         kempeChain.setMap();
         kempeChain.setStudents(model.students);
-        double finalPenalty = kempeChain.keepReducingPenalty(5000);
+        double finalPenalty = kempeChain.keepReducingPenalty(2000);
         System.out.println("Finally: "+finalPenalty);
     }
 }

@@ -103,7 +103,7 @@ public class KempeChain {
     {
         pairs = createDiffColorPairs();
         Random random = new Random(3);
-        Penalty penalty = new Penalty();
+        Penalty penalty = new LinearPenalty();
         double totalPenalty = penalty.getPenalty(students, map);
         for(int i=0; i<iterations; i++)
         {
@@ -118,7 +118,7 @@ public class KempeChain {
 
             if(newPenalty < totalPenalty)
             {
-                System.out.println("Penalty: "+newPenalty);
+//                System.out.println("Penalty: "+newPenalty);
                 totalPenalty = newPenalty;
             }
 
