@@ -2,12 +2,13 @@ package schedule.heuristics.perturbative;
 
 import base.Graph;
 import base.Vertex;
+import base.data.Course;
 import base.data.Student;
 
 import java.util.*;
 
 public class KempeChain {
-    List<List<DiffColorPair>> pairs;
+    List<DiffColorPair> pairs;
     Graph graph;
     List<Student> students;
     HashMap<Integer, Vertex> map;
@@ -31,22 +32,21 @@ public class KempeChain {
         }
     }
 
-    public List<List<DiffColorPair>> createDiffColorPairs()
+    public List<DiffColorPair> createDiffColorPairs()
     {
         int n = graph.getVertices().size();
-        Sort sort = new Sort();
-        sort.sortVerticesBasedOnDay(graph);
         int outerCount = 0;
-        for(int i=0; i<n-1; i++)
+        for(int i=0; i<n; i++)
         {
-            pairs.add(new ArrayList<>());
-            for(int j=i+1; j<n; j++)
+            for(int j=0; j<n; j++)
             {
+                if(i==j)
+                    continue;
                 if(graph.getVertices().get(i).getDay() != graph.getVertices().get(j).getDay())
                 {
                     Vertex u = graph.getVertices().get(i);
                     Vertex v = graph.getVertices().get(j);
-                    pairs.get(outerCount).add(new DiffColorPair(u,v));
+                    pairs.add(new DiffColorPair(u,v));
                 }
             }
             outerCount++;
@@ -63,6 +63,7 @@ public class KempeChain {
         Queue<Vertex> queue = new ArrayDeque<>();
         queue.add(u);
         list.add(u);
+        int day1 = u.getDay();
         while(!queue.isEmpty())
         {
             Vertex v = queue.poll();
@@ -71,7 +72,7 @@ public class KempeChain {
                 courseCode = k.getNode().getCourseCode();
                 if(!track.containsKey(courseCode))
                 {
-                    if(day2 == k.getDay())
+                    if(day2 == k.getDay() || day1 == k.getDay())
                     {
                         queue.add(k);
                         track.put(courseCode, true);
@@ -86,13 +87,29 @@ public class KempeChain {
 
     public void colorSwap(int day1, int day2, List<Vertex> kempechain)
     {
+        Penalty penalty = new LinearPenalty();
+        double prevPenalty = penalty.getPenalty(students, map);
         for(Vertex v : kempechain)
         {
+            //System.out.println("Course code: "+v.getNode().getCourseCode()+1 +", day: "+v.getDay());
             if(v.getDay() == day1)
                 v.setDay(day2);
-            else
+            else if(v.getDay() == day2)
                 v.setDay(day1);
         }
+        double newPenalty = penalty.getPenalty(students, map);
+        if(newPenalty > prevPenalty)
+        {
+            for(Vertex v : kempechain)
+            {
+                //System.out.println("Course code: "+v.getNode().getCourseCode()+1 +", day: "+v.getDay());
+                if(v.getDay() == day1)
+                    v.setDay(day2);
+                else if(v.getDay() == day2)
+                    v.setDay(day1);
+            }
+        }
+
     }
     public void revertColorSwap(int day1, int day2, List<Vertex> kempechain)
     {
@@ -105,27 +122,22 @@ public class KempeChain {
         Random random = new Random(3);
         Penalty penalty = new LinearPenalty();
         double totalPenalty = penalty.getPenalty(students, map);
+        System.out.println("Penalty before kempe chain: "+totalPenalty);
         for(int i=0; i<iterations; i++)
         {
-            int ind1 = i%pairs.size();
-            if(pairs.get(ind1).size() == 0)
-                continue;
-            int ind2 = random.nextInt(pairs.get(ind1).size());
-            DiffColorPair pair = pairs.get(ind1).get(ind2);
+            int ind = random.nextInt(pairs.size());
+            DiffColorPair pair = pairs.get(ind);
             List<Vertex> kempechain = getKempeChain(graph.getVertices(), pair.u, pair.v.getDay());
             colorSwap(pair.u.getDay(), pair.v.getDay(), kempechain);
-            double newPenalty = penalty.getPenalty(students, map);
-
-            if(newPenalty < totalPenalty)
-            {
-//                System.out.println("Penalty: "+newPenalty);
-                totalPenalty = newPenalty;
-            }
-
-            else
-                revertColorSwap(pair.u.getDay(), pair.v.getDay(), kempechain);
-
         }
-        return totalPenalty;
+        totalPenalty = penalty.getPenalty(students, map);
+        System.out.println("Penalty after kempe chain: "+totalPenalty);
+        PairSwapOperator pso = new PairSwapOperator(this.graph);
+        pso.setMap();
+        pso.setStudents(this.students);
+        double penaltyAfterPairSwap = pso.reducePenalty(1500);
+        System.out.println("Penalty after running Pair swap operator: "+penaltyAfterPairSwap);
+        return penaltyAfterPairSwap;
     }
+
 }

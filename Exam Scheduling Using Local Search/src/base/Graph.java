@@ -1,5 +1,6 @@
 package base;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Graph {
@@ -7,6 +8,10 @@ public class Graph {
 
     public Graph(List<Vertex> vertices) {
         this.vertices = vertices;
+    }
+
+    public Graph() {
+        vertices = new ArrayList<>();
     }
 
     public List<Vertex> getVertices() {

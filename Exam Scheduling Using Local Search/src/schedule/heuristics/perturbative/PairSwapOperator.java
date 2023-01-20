@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 
-public class PairSwapOperator implements DiffColorPairCreation{
+public class PairSwapOperator{
     Graph graph;
     List<Student> students;
     HashMap<Integer, Vertex> map;
@@ -33,7 +33,6 @@ public class PairSwapOperator implements DiffColorPairCreation{
         }
     }
 
-    @Override
     public List<DiffColorPair> createDiffColorPairs(Graph graph) {
         List<Vertex> vertices = graph.getVertices();
         for(int i=0; i<vertices.size(); i++)
@@ -80,6 +79,7 @@ public class PairSwapOperator implements DiffColorPairCreation{
     {
         Penalty penalty = new LinearPenalty();
         double totalPenalty = penalty.getPenalty(students, map);
+        System.out.println("Current penalty: "+totalPenalty);
         pairs = createDiffColorPairs(graph);
         Random random = new Random(3);
         for(int i=0; i<iterations; i++)
@@ -92,6 +92,7 @@ public class PairSwapOperator implements DiffColorPairCreation{
                 if(newPenalty < totalPenalty)
                 {
                     totalPenalty = newPenalty;
+//                    System.out.println("Current penalty from pair swap operator "+totalPenalty);
                 }else
                 {
                     pair.u.setDay(pair.v.getDay());
