@@ -143,11 +143,13 @@ public class KempeChain {
         totalPenalty = penalty.getPenalty(students, map);
         writer.write("Penalty after kempe chain: "+totalPenalty+"\n");
         writer.flush();
+
+
         PairSwapOperator pso = new PairSwapOperator(this.graph);
         pso.setPenalty(this.penalty);
         pso.setMap();
         pso.setStudents(this.students);
-        double penaltyAfterPairSwap = pso.reducePenalty(2000);
+        double penaltyAfterPairSwap = pso.reducePenalty(10000);
         writer.write("Penalty after running Pair swap operator: "+penaltyAfterPairSwap+"\n");
         writer.flush();
         return penaltyAfterPairSwap;

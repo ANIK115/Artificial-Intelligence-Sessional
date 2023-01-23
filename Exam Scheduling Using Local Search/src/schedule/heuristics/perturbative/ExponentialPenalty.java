@@ -18,7 +18,7 @@ public class ExponentialPenalty implements Penalty{
                 for(int j=i+1; j<student.getCourses().size(); j++)
                 {
                     int courseCode2 = student.getCourses().get(j).getCourseCode();
-                    int n = Math.abs(map.get(courseCode1).getDay()- map.get(courseCode2).getDay());
+                    int n = Math.abs(map.get(courseCode1).getDay()- map.get(courseCode2).getDay()-1);
                     if(n <=5)
                     {
                         penalty += Math.pow(2, (5-n));

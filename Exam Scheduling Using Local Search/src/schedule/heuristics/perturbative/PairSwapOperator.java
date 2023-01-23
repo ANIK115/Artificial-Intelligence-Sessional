@@ -38,21 +38,30 @@ public class PairSwapOperator{
         }
     }
 
+    public boolean isThereEdge(Vertex a, List<Vertex> edges)
+    {
+        for(Vertex u : edges)
+        {
+            if(u.getNode().getCourseCode() == a.getNode().getCourseCode())
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public List<DiffColorPair> createDiffColorPairs(Graph graph) {
         List<Vertex> vertices = graph.getVertices();
         for(int i=0; i<vertices.size(); i++)
         {
             Vertex u = vertices.get(i);
-            for(int j=0; j<vertices.size(); j++)
+            for(int j=i+1; j<vertices.size(); j++)
             {
                 Vertex v = vertices.get(j);
-                if(u.getNode().getCourseCode() != v.getNode().getCourseCode())
+                if(u.getDay() != v.getDay())
                 {
-                    if(!u.getEdges().contains(v) && u.getDay() != v.getDay())
-                    {
-                        DiffColorPair pair = new DiffColorPair(u,v);
-                        pairs.add(pair);
-                    }
+                    DiffColorPair p = new DiffColorPair(u,v);
+                    pairs.add(p);
                 }
             }
         }
@@ -60,47 +69,55 @@ public class PairSwapOperator{
     }
     boolean swapPair(Vertex u, Vertex v)
     {
-        int day1 = u.getDay();
-        int day2 = v.getDay();
+        boolean flag = true;
         for(Vertex k : u.getEdges())
         {
-            if(k.getDay() == day2)
+            if(k.getDay() == v.getDay())
             {
-                return false;
+                flag = false;
             }
         }
         for(Vertex m : v.getEdges())
         {
-            if(m.getDay() == day1)
+            if(m.getDay() == u.getDay())
             {
-                return false;
+                flag = false;
             }
         }
-        u.setDay(day2);
-        v.setDay(day1);
-        return true;
+        if(flag)
+        {
+            int day = u.getDay();
+            u.setDay(v.getDay());
+            v.setDay(day);
+        }
+
+        return flag;
     }
     public double reducePenalty(int iterations)
     {
         double totalPenalty = penalty.getPenalty(students, map);
         System.out.println("Current penalty: "+totalPenalty);
         pairs = createDiffColorPairs(graph);
-        Random random = new Random(3);
+        Random random = new Random(10);
         for(int i=0; i<iterations; i++)
         {
             int index = random.nextInt(pairs.size());
             DiffColorPair pair = pairs.get(index);
-            if(swapPair(pair.u, pair.v))
+            Vertex u = pair.u;
+            Vertex v = pair.v;
+            if(swapPair(u,v))
             {
                 double newPenalty = penalty.getPenalty(students, map);
+
                 if(newPenalty < totalPenalty)
                 {
                     totalPenalty = newPenalty;
-//                    System.out.println("Current penalty from pair swap operator "+totalPenalty);
                 }else
                 {
-                    pair.u.setDay(pair.v.getDay());
-                    pair.v.setDay(pair.u.getDay());
+                    int dayu = u.getDay();
+                    int dayv = v.getDay();
+                    u.setDay(dayv);
+                    v.setDay(dayu);
                 }
             }
         }

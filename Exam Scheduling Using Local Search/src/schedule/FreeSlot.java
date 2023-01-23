@@ -20,9 +20,6 @@ public class FreeSlot {
                 days.add(course.getDay());
         }
         Collections.sort(days);
-//        for(int a : days)
-//            System.out.print(a+" ");
-//        System.out.println();
         int day = 1;
         for(int i=0; i< days.size(); i++)
         {

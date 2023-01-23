@@ -20,7 +20,7 @@ public class Solver {
     public static void main(String[] args) throws IOException, InterruptedException {
         List<String> stuFiles = new ArrayList<>();
         List<String> crsFiles = new ArrayList<>();
-        FileWriter writer = new FileWriter(new File("data output.txt"), true);
+        FileWriter writer = new FileWriter(new File("data output4.txt"), true);
         stuFiles.add("Toronto/car-f-92.stu");
         stuFiles.add("Toronto/car-s-91.stu");
         stuFiles.add("Toronto/kfu-s-93.stu");
@@ -38,10 +38,10 @@ public class Solver {
         {
             String courseFile = crsFiles.get(i);
             String studentFile = stuFiles.get(i);
-            writer.write("Solution for file "+studentFile+" using Random Ordering and Linear Penalty\n");
+            writer.write("Solution for file "+studentFile+" using Saturation Degree and Linear Penalty\n");
             writer.flush();
             Model model = new Model(courseFile, studentFile);
-            ConstructiveHeuristic conHeuristic = new RandomOrdering();
+            ConstructiveHeuristic conHeuristic = new DSatur();
             Scheduler scheduler = new Scheduler();
             scheduler.setGraph(model);
             scheduler.setConHeuristic(conHeuristic);
@@ -65,7 +65,7 @@ public class Solver {
             writer.write("Penalty: "+penalty.getPenalty(model.students,map)+"\n");
             writer.flush();
 
-            double finalPenalty = kempeChain.keepReducingPenalty(5000);
+            double finalPenalty = kempeChain.keepReducingPenalty(2000);
 
             writer.write("Final Penalty: "+finalPenalty+"\n");
             writer.write("------------------------------------------\n\n");
@@ -73,7 +73,7 @@ public class Solver {
 
             SolutionLog solution = new SolutionLog();
             solution.setGraph(scheduler.graph);
-            solution.printSolution(new File(studentFile), new File(studentFile.replace(".stu", "-output.txt")));
+            solution.printSolution(new File(studentFile), new File(studentFile.replace(".stu", "-outputLinear.txt")));
 
         }
 

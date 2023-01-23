@@ -34,11 +34,11 @@ class DegreeOfSaturation implements Comparator<Vertex> {
 
     @Override
     public int compare(Vertex v1, Vertex v2) {
-        int diff = degreeOfSaturation(v1) - degreeOfSaturation(v2);
+        int diff = degreeOfSaturation(v2) - degreeOfSaturation(v1);
         if(diff == 0)
         {
             Degree degree = new Degree();
-            return degree.getDegree(v1)- degree.getDegree(v2);
+            return degree.getUncoloredDegree(v2)- degree.getUncoloredDegree(v1);
         }
         return diff;
     }
@@ -48,7 +48,7 @@ public class DSatur implements ConstructiveHeuristic {
     @Override
     public Vertex getNextUncoloredVertex(Graph graph) {
         Collections.sort(graph.getVertices(), new DegreeOfSaturation());
-        for(int i=graph.getVertices().size()-1; i>=0; i--)
+        for(int i=0; i<graph.getVertices().size(); i++)
         {
             if(graph.getVertices().get(i).getDay() == -1)
                 return graph.getVertices().get(i);
