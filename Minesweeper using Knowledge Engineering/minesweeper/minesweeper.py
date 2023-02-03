@@ -198,8 +198,64 @@ class MinesweeperAI():
             5) add any new sentences to the AI's knowledge base
                if they can be inferred from existing knowledge
         """
-        raise NotImplementedError
 
+        #mark cell
+        self.moves_made.add(cell)
+        
+        #mark safe
+        self.mark_safe(cell)
+        
+        #part 3
+        neighbors = []
+        countNeighborMines = 0
+        
+        for i in range(cell[0]-1, cell[0]+2):
+            for j in range(cell[1]-1, cell[1]+2):
+                if (i,j) in self.mines:
+                    countNeighborMines += 1;
+                if 0 <= i < self.height and 0 <= j < self.width and not self.is_diagonal_cell(cell, i,j):
+                    if (i,j) not in self.safes and (i,j) not in self.mines:
+                        neighbors.append((i,j))
+                
+        
+        sentence = Sentence(neighbors, (count-countNeighborMines))
+        self.knowledge.append(sentence)
+        
+        #part 4
+        for s in self.knowledge:
+            if s.known_mines():
+                for cell in s.known_mines().copy():
+                    self.mark_mine(cell)
+            if s.known_safes():
+                for cell in s.known_safes().copy():
+                    self.mark_safe(cell)
+        
+        #part 5
+        for s in self.knowledge:
+            if s == sentence:
+                continue
+            if s.count > 0 and sentence.count > 0 and sentence.cells.issubset(s.cells):
+                subset = s.cells - sentence.cells
+                subsetSentence = Sentence(subset, s.count-sentence.count)
+                self.knowledge.append(subsetSentence)
+                
+        
+                
+    def is_diagonal_cell(self, cell, i,j):
+        tempCell = (i,j)
+        if cell[0]-1 == tempCell[0] and cell[1]-1 == tempCell[1]:
+            return True
+        if cell[0]-1 == tempCell[0] and cell[1]+1 == tempCell[1]:
+            return True
+        if cell[0]+1 == tempCell[0] and cell[1]-1 == tempCell[1]:
+            return True
+        if cell[0]+1 == tempCell[0] and cell[1]+1 == tempCell[1]:
+            return True
+        
+        return False
+        
+        
+        
     def make_safe_move(self):
         """
         Returns a safe cell to choose on the Minesweeper board.
