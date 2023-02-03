@@ -211,7 +211,7 @@ class MinesweeperAI():
         
         for i in range(cell[0]-1, cell[0]+2):
             for j in range(cell[1]-1, cell[1]+2):
-                if (i,j) in self.mines:
+                if not self.is_diagonal_cell(cell,i,j) and (i,j) in self.mines:
                     countNeighborMines += 1;
                 if 0 <= i < self.height and 0 <= j < self.width and not self.is_diagonal_cell(cell, i,j):
                     if (i,j) not in self.safes and (i,j) not in self.mines:
